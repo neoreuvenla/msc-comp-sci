@@ -1,20 +1,40 @@
 #### COM00146M Research Methods
 # **Week 6 - Qualitative Data Collection and Analysis**
 
-## **6.0 Learning Objectives**
+## **6.0 Table of Contents**
+
+- [**6.0 Table of Contents**](#60-table-of-contents)
+- [**6.1 Learning Objectives**](#61-learning-objectives)
+- [**6.2 Qualitative Research Method**](#62-qualitative-research-method)
+  * [**6.2.0 Required Reading**](#620-required-reading)
+  * [**6.2.1 Overview**](#621-overview)
+    + [**Grounded Theory**](#grounded-theory)
+  * [**6.2.2 Analysing and Presenting**](#622-analysing-and-presenting)
+    + [**Interpretation**](#interpretation)
+    + [**Validity and Reliability**](#validity-and-reliability)
+    + [**Writing Reports**](#writing-reports)
+  * [**6.2.3 Thematic Analysis**](#623-thematic-analysis)
+- [**6.3 Drawing Valid Conclusion From Research Data**](#63-drawing-valid-conclusion-from-research-data)
+  * [**6.3.0 Required Reading**](#630-required-reading)
+  * [**6.3.1 Drawing Conclusions**](#631-drawing-conclusions)
+    + [**Process**](#process)
+    + [**Pitfalls**](#pitfalls)
+
+&emsp;
+## **6.1 Learning Objectives**
 
 * **MLO1, MLO2, MLO4** - Compare methods of data gathering
 * **MLO2** - Demonstrate a clear understanding of qualitative analysis methods
 
 &emsp;
-## **6.1 Qualitative Research Method**
+## **6.2 Qualitative Research Method**
 
 &emsp;
-### **6.1.0 Reading**
+### **6.2.0 Required Reading**
 * *Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
 
 &emsp;
-### **6.1.1 Overview**
+### **6.2.1 Overview**
  
 The volume and characteristics of qualitative data can make analysis appear overwhelming 
 
@@ -56,7 +76,7 @@ It is an interpretive methodology approach that provides a comprehensive analyti
 Generally, grounded theory is a protracted, rigorous, and detailed analytical approach.
 
 &emsp;
-### **6.1.2 Analysing and Presenting**
+### **6.2.2 Analysing and Presenting**
 
 Qualitative data analysis involves making sense of text and image data by **segmenting** and **reassembling** it.
 
@@ -103,7 +123,7 @@ The basic procedure for reporting qualitative research involves:
 Writing strategies that may be used include quotes, dialogue, varied narrative forms, first person pronouns, metaphors, and narrative forms associated with specific strategies. 
 
 &emsp;
-### **6.1.3 Thematic Analysis**
+### **6.2.3 Thematic Analysis**
 
 &emsp;
 **Thematic analysis** is a type of analysis in qualitative research for generating rich, complex data descriptions.
@@ -125,14 +145,14 @@ The advantages of thematic analysis lie in its flexibility and accessibility for
 A visual resource for the process can be found at <http://delvetool.com>.
 
 &emsp;
-## **6.2 Drawing Valid Conclusion From Research Data**
+## **6.3 Drawing Valid Conclusion From Research Data**
 
 &emsp;
-### **6.2.0 Reading**
-* *Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+### **6.3.0 Required Reading**
+* *None*
 
 &emsp;
-### **6.2.1 Drawing Conclusions**
+### **6.3.1 Drawing Conclusions**
 
 Drawing valid **conclusions** is essential to ensure reliability and credibility of research results.
 
