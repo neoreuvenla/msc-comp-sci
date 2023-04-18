@@ -65,6 +65,9 @@ Dr Mittelstadt used the term **data ethics** to describe the moral principles th
 * There is potential for bias in data collection and analysis that needs to be controlled
 * Ethical frameworks such as consequentialism and deontology can mitigate concerns
 * Some professions provide ethical codes and guidelines which should, or must, be adhered to 
+<p align="center">
+  <img src="images/07/0701dataethics.jpg" alt="Data ethics overview">
+</p>
 
 The Alan Turing Institute's Data Ethics Group commented on the ethical use of data within the NHS.
 * Technology can improve service and alleviate budgetary pressures
