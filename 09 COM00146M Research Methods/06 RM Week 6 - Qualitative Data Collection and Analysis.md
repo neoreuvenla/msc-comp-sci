@@ -21,12 +21,14 @@
     + [**Process**](#process)
     + [**Pitfalls**](#pitfalls)
 
+---
 &emsp;
 ## **6.1 Learning Objectives**
 
 * **MLO1, MLO2, MLO4** - Compare methods of data gathering
 * **MLO2** - Demonstrate a clear understanding of qualitative analysis methods
 
+---
 &emsp;
 ## **6.2 Summary**
 Qualitative research provides a deep understanding of human behavior and avoids incorrect assumptions made from quantitative analysis. It involves categorizing data, recognizing patterns and themes, developing theory, and considering results in relation to existing frameworks. 
@@ -35,9 +37,9 @@ Grounded theory is a popular methodology that involves coding and recoding data 
 
 Valid conclusions are essential for reliability and credibility, requiring a methodical approach to revisiting the research purpose, triangulating data sources, and drafting focused conclusions with recognized limitations.
 
+---
 &emsp;
 ## **6.3 Qualitative Research Method**
-
 
 ### **6.3.0 Reading**
 * *Required: Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
@@ -58,7 +60,7 @@ Qualitative methods are useful for gaining a deep understanding of human behavio
 * Develop theory
 * Consider results in relation to a priori frameworks for understanding 
 <p align="center">
-  <img src="images/06/0601commonapproach.jpg" alt="alt_text">
+  <img src="images/06/0601commonapproach.jpg" alt="Common approach summary">
 </p>
 
 There are many qualitative analysis techniques available to researchers, such as **thematic**, **discourse**, **hermeneutics**, **semiotics**, and **conversation analyses**. 
@@ -83,7 +85,7 @@ It is an interpretive methodology approach that provides a comprehensive analyti
 * Coding data – **open** initially for eliciting themes with **axial** and **selective** in later iterations
 * Theorising to achieve saturation of themes through coding and recoding iteration
 <p align="center">
-  <img src="images/06/0602systematicanalysis.jpg" alt="alt_text">
+  <img src="images/06/0602systematicanalysis.jpg" alt="Systematic analysis summary">
 </p>
 
 Generally, grounded theory is a protracted, rigorous, and detailed analytical approach.
@@ -149,11 +151,12 @@ The basic steps include:
 * Reviewing, removing, and defining themes
 * Producing the final report
 <p align="center">
-  <img src="images/06/0603thematicanalysis.jpg" alt="alt_text">
+  <img src="images/06/0603thematicanalysis.jpg" alt="Thematic analysis illustration">
 </p>
 
 The advantages of thematic analysis lie in its flexibility and accessibility for novice researchers. However, by nature it will overlook phenomena that occur in in individual records.
 
+---
 &emsp;
 ## **6.4 Drawing Valid Conclusion From Research Data**
 
