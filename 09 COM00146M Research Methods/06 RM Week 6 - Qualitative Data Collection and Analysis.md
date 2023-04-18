@@ -5,18 +5,19 @@
 
 - [**6.0 Table of Contents**](#60-table-of-contents)
 - [**6.1 Learning Objectives**](#61-learning-objectives)
-- [**6.2 Qualitative Research Method**](#62-qualitative-research-method)
-  * [**6.2.0 Required Reading**](#620-required-reading)
-  * [**6.2.1 Overview**](#621-overview)
+- [**6.2 Summary**](#62-summary)
+- [**6.3 Qualitative Research Method**](#63-qualitative-research-method)
+  * [**6.3.0 Reading**](#630-reading)
+  * [**6.3.1 Overview**](#631-overview)
     + [**Grounded Theory**](#grounded-theory)
-  * [**6.2.2 Analysing and Presenting**](#622-analysing-and-presenting)
+  * [**6.3.2 Analysing and Presenting**](#632-analysing-and-presenting)
     + [**Interpretation**](#interpretation)
     + [**Validity and Reliability**](#validity-and-reliability)
     + [**Writing Reports**](#writing-reports)
-  * [**6.2.3 Thematic Analysis**](#623-thematic-analysis)
-- [**6.3 Drawing Valid Conclusion From Research Data**](#63-drawing-valid-conclusion-from-research-data)
-  * [**6.3.0 Required Reading**](#630-required-reading)
-  * [**6.3.1 Drawing Conclusions**](#631-drawing-conclusions)
+  * [**6.3.3 Thematic Analysis**](#633-thematic-analysis)
+- [**6.4 Drawing Valid Conclusion From Research Data**](#64-drawing-valid-conclusion-from-research-data)
+  * [**6.4.0 Reading**](#640-reading)
+  * [**6.4.1 Drawing Conclusions**](#641-drawing-conclusions)
     + [**Process**](#process)
     + [**Pitfalls**](#pitfalls)
 
@@ -27,14 +28,21 @@
 * **MLO2** - Demonstrate a clear understanding of qualitative analysis methods
 
 &emsp;
-## **6.2 Qualitative Research Method**
+## **6.2 Summary**
+Qualitative research provides a deep understanding of human behavior and avoids incorrect assumptions made from quantitative analysis. It involves categorizing data, recognizing patterns and themes, developing theory, and considering results in relation to existing frameworks. Grounded theory is a popular methodology that involves coding and recoding data to achieve saturation of themes. Software programs can be used to sort and search databases. Thematic analysis is flexible and accessible for novice researchers. Valid conclusions are essential for reliability and credibility, requiring a methodical approach to revisiting the research purpose, triangulating data sources, and drafting focused conclusions with recognized limitations.
 
 &emsp;
-### **6.2.0 Required Reading**
-* *Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+## **6.3 Qualitative Research Method**
+
+
+### **6.3.0 Reading**
+* *Required: Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+* *Extension: [How Qualitative Methods Support Better Data Science](https://medium.com/indeed-engineering/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)*
+* *Extension: [Doing A Themeatic Analysis: A Practical Step-By-Step Guide](https://ojs.aishe.org/index.php/aishe-j/article/view/335/553)*
+* *Extension: [How To Do Thematic Analysis](https://delvetool.com/blog/thematicanalysis)*
 
 &emsp;
-### **6.2.1 Overview**
+### **6.3.1 Overview**
  
 The volume and characteristics of qualitative data can make analysis appear overwhelming 
 
@@ -61,13 +69,13 @@ Each analysis type shares fundamental principles of:
 
 A researcher may choose to make use of analytical aids, such as research diaries and software packages.
 
-#### **Grounded Theory**
+#### **Grounded Theory:**
 
 Grounded theory is an archetypal methodology in qualitative research.
 
 It is an interpretive methodology approach that provides a comprehensive analytical framework for:
 * Gathering data
-* Coding data – open initially for eliciting themes with axial and selective in later iterations
+* Coding data – **open** initially for eliciting themes with **axial** and **selective** in later iterations
 * Theorising to achieve saturation of themes through coding and recoding iteration
 <p align="center">
   <img src="images/06/0602systematicanalysis.jpg" alt="alt_text">
@@ -76,13 +84,13 @@ It is an interpretive methodology approach that provides a comprehensive analyti
 Generally, grounded theory is a protracted, rigorous, and detailed analytical approach.
 
 &emsp;
-### **6.2.2 Analysing and Presenting**
+### **6.3.2 Analysing and Presenting**
 
 Qualitative data analysis involves making sense of text and image data by **segmenting** and **reassembling** it.
 
 This process is often simultaneous with data collection and writing up findings: interviews may be proceeding while older data is being analysed or memos being processed.
 	
-Researchers need to **winnow** the data to allow closer focus on select parts.
+Researchers need to **winnow** the data to allow closer focus on select parts:
 * Winnowing involves sifting through large data sets to identify important elements
 * Redundant data can be eliminated, condensing the data into a more manageable form
 * This allows data to be aggregated into a small number of themes
@@ -90,7 +98,7 @@ Researchers need to **winnow** the data to allow closer focus on select parts.
 Software programs can assist in the analysing of data, as they can organise, sort, and search databases.
 
 &emsp;
-#### **Interpretation**
+#### **Interpretation:**
 
 Interpretation of results generally involves:
 * Summarising findings
@@ -100,9 +108,9 @@ Interpretation of results generally involves:
 * Indicating future research
 
 &emsp;
-#### **Validity and Reliability**
+#### **Validity and Reliability:**
 
-**Qualitative validity** means checking for accuracy from the standpoint of the researcher, participant, or reader.
+The process of checking for accuracy from the standpoint of the researcher, participant, or reader is known as **qualitative validity**.
 
 Researchers should actively incorporate validity strategies into the study. Using multiple validity procedures is recommended, including:
 * Triangulating different sources
@@ -110,10 +118,10 @@ Researchers should actively incorporate validity strategies into the study. Usin
 * Presenting negative or conflicting information
 * Using peer debriefing or an external auditor
 
-**Qualitative reliability** means checking for consistency or stability of the approach. This can be done by documenting procedures and setting up a detailed case study protocol and database where appropriate.
+**Qualitative Reliability:** means checking for consistency or stability of the approach. This can be done by documenting procedures and setting up a detailed case study protocol and database where appropriate.
 
 &emsp;
-#### **Writing Reports**
+#### **Writing Reports:**
 
 The basic procedure for reporting qualitative research involves:
 * Developing descriptions and themes from data
@@ -123,9 +131,8 @@ The basic procedure for reporting qualitative research involves:
 Writing strategies that may be used include quotes, dialogue, varied narrative forms, first person pronouns, metaphors, and narrative forms associated with specific strategies. 
 
 &emsp;
-### **6.2.3 Thematic Analysis**
+### **6.3.3 Thematic Analysis**
 
-&emsp;
 **Thematic analysis** is a type of analysis in qualitative research for generating rich, complex data descriptions.
 
 It is a flexible, foundational method of analysis often used by researchers less familiar with the more complex types of analysis used in qualitative or quantitative research. 
@@ -142,17 +149,15 @@ The basic steps include:
 
 The advantages of thematic analysis lie in its flexibility and accessibility for novice researchers. However, by nature it will overlook phenomena that occur in in individual records.
 
-A visual resource for the process can be found at <http://delvetool.com>.
+&emsp;
+## **6.4 Drawing Valid Conclusion From Research Data**
+
+### **6.4.0 Reading**
+* *Required: none*
+* *Extension: [When It Comes To Data, Skepticism Matters](https://hbr.org/2014/10/when-it-comes-to-data-skepticism-matters)*
 
 &emsp;
-## **6.3 Drawing Valid Conclusion From Research Data**
-
-&emsp;
-### **6.3.0 Required Reading**
-* *None*
-
-&emsp;
-### **6.3.1 Drawing Conclusions**
+### **6.4.1 Drawing Conclusions**
 
 Drawing valid **conclusions** is essential to ensure reliability and credibility of research results.
 
@@ -161,7 +166,7 @@ Valid and credible conclusions report data accurately, without stretching or wea
 The methodological rationale needs to be explained and validated, and the data analysis process should identify key themes and validated results. 
 
 &emsp;
-#### **Process**
+#### **Process:**
 
 A methodical approach is therefore necessary to produce robust conclusions: 
 * **Revisit** the research purpose and question – ensure conclusions address each component part of the question
@@ -172,7 +177,7 @@ A methodical approach is therefore necessary to produce robust conclusions:
 * **End** conclusions in a focused, succinct, and appropriate way – over and under interpretation of data should be avoided and areas for further research indicated
 
 &emsp;
-#### **Pitfalls**
+#### **Pitfalls:**
 
 While doing this, several pitfalls should be avoided:
 * Avoid over or under interpreting the data
