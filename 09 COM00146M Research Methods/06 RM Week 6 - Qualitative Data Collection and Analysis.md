@@ -29,7 +29,11 @@
 
 &emsp;
 ## **6.2 Summary**
-Qualitative research provides a deep understanding of human behavior and avoids incorrect assumptions made from quantitative analysis. It involves categorizing data, recognizing patterns and themes, developing theory, and considering results in relation to existing frameworks. Grounded theory is a popular methodology that involves coding and recoding data to achieve saturation of themes. Software programs can be used to sort and search databases. Thematic analysis is flexible and accessible for novice researchers. Valid conclusions are essential for reliability and credibility, requiring a methodical approach to revisiting the research purpose, triangulating data sources, and drafting focused conclusions with recognized limitations.
+Qualitative research provides a deep understanding of human behavior and avoids incorrect assumptions made from quantitative analysis. It involves categorizing data, recognizing patterns and themes, developing theory, and considering results in relation to existing frameworks. 
+
+Grounded theory is a popular methodology that involves coding and recoding data to achieve saturation of themes. Software programs can be used to sort and search databases. Thematic analysis is flexible and accessible for novice researchers. 
+
+Valid conclusions are essential for reliability and credibility, requiring a methodical approach to revisiting the research purpose, triangulating data sources, and drafting focused conclusions with recognized limitations.
 
 &emsp;
 ## **6.3 Qualitative Research Method**
@@ -69,6 +73,7 @@ Each analysis type shares fundamental principles of:
 
 A researcher may choose to make use of analytical aids, such as research diaries and software packages.
 
+&emsp;
 #### **Grounded Theory:**
 
 Grounded theory is an archetypal methodology in qualitative research.
