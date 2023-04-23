@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3F74A1?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /><img src="https://img.shields.io/badge/Markdown-E65000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><img src="https://img.shields.io/badge/VS_Code-0097E7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
+<img src="https://img.shields.io/badge/Markdown-E65000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><img src="https://img.shields.io/badge/VS_Code-0097E7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge" />
 
 <br><br>
 
@@ -11,24 +11,22 @@
 
 </div>
 
-A repository to hold the completed coding exercises from the Hyperion Data Science bootcamp. Content included Python, Data Exploration, Data Visualisation, Data Analysis, Machine Learning, NLP, and Git.
+A repository to hold the lecture and activity notes from the University of York MSc Computer Science course. 
+
+Carousel modules included Algorithms and Data Structures, Advanced Programming, Artificial Intelligence and Machine Learning, Big Data Analytics, Computer and Mobile Networks, Computer Architecture and Operating Systems, Cyber Security Threats, Research Methods, Software Engineering.
+
+Concluding modules included Research Proposal and Independent Research Project.
 
 <br>
 
 ## **Repository Contents**
 
-- [**Basic Concepts**](https://github.com/neoreuvenla/hyperion-datascience/tree/main/basic%20concepts)
-    * [Hello World](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/01%20hello%20world.py)
-    * [User Input](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/02%20user%20input.py)
-    * [Stripping Strings](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/03%20stripping%20strings.py)
-    * [Replacing Strings](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/04%20replacing%20strings.py)
-    * [Validating Input](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/05%20validating%20input.py)
-    * [Logical Operators](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/06%20logical%20operators.py)
-    * [Control Structures](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/07%20control%20structures.py)
-    * [While Loops](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/08%20while%20loops.py)
-    * [For Loops](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/09%20for%20loops.py)
-    * [Defensive Programming](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/10%20defensive%20programming.py)
-    * [String Handling](https://github.com/neoreuvenla/hyperion-datascience/blob/main/basic%20concepts/11%20string%20handling.py)
-- [**Data Handling**](https://github.com/neoreuvenla/hyperion-datascience/tree/main/data%20handling)
-    * [Lists and Dictionaries](https://github.com/neoreuvenla/hyperion-datascience/blob/main/data%20handling/01%20lists%20and%20dictionaries.py)
-    * [Functions](https://github.com/neoreuvenla/hyperion-datascience/blob/main/data%20handling/02%20functions.py)
+- [**Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/09%20COM00146M%20Research%20Methods)
+    * [Introduction to Research Methods]()
+    * [Research Methods and Methodologies](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM02%20Research%20Methods%20and%20Methodologies.md)
+    * [Quantitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM03%20Quantitative%20Research%20Methods.md)
+    * [Quantitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM04%20Quantitative%20Methods%2C%20Collection%20and%20Analysis.md)
+    * [Qualitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM05%20Qualitative%20Research%20Methods.md)
+    * [Qualitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM06%20Qualitative%20Data%20Collection%20and%20Analysis.md)
+    * [Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM07%20Evaluation.md)
+    * [Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/09%20COM00146M%20Research%20Methods/reading)
