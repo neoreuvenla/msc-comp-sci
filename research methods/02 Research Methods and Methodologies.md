@@ -3,7 +3,7 @@
 
 ## **2.0 Table of Contents**
 
-- [**2.0 Table of Contents**](#40-table-of-contents)
+- [**2.0 Table of Contents**](#20-table-of-contents)
 - [**2.1 Learning Objectives**](#21-learning-objectives)
 - [**2.2 Summary**](#22-summary)
 - [**2.3 Research Termingology And Definitions**](#23-research-termingology-and-definitions)

@@ -3,7 +3,7 @@
 
 ## **3.0 Table of Contents**
 
-- [**3.0 Table of Contents**](#40-table-of-contents)
+- [**3.0 Table of Contents**](#30-table-of-contents)
 - [**3.1 Learning Objectives**](#31-learning-objectives)
 - [**3.2 Summary**](#32-summary)
 - [**3.3 Research Methods in Computer Science**](#33-research-methods-in-computer-science)
