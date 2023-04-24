@@ -21,12 +21,19 @@ Concluding modules included Research Proposal and Independent Research Project.
 
 ## **Repository Contents**
 
-- [**Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/09%20COM00146M%20Research%20Methods)
-    * [Introduction to Research Methods]()
-    * [Research Methods and Methodologies](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM02%20Research%20Methods%20and%20Methodologies.md)
-    * [Quantitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM03%20Quantitative%20Research%20Methods.md)
-    * [Quantitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM04%20Quantitative%20Methods%2C%20Collection%20and%20Analysis.md)
-    * [Qualitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM05%20Qualitative%20Research%20Methods.md)
-    * [Qualitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM06%20Qualitative%20Data%20Collection%20and%20Analysis.md)
-    * [Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/09%20COM00146M%20Research%20Methods/RM07%20Evaluation.md)
-    * [Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/09%20COM00146M%20Research%20Methods/reading)
+- [**Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods)
+    * [01 Introduction to Research Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/01%20Introduction%20to%20Research%20Methods.md)
+    
+    * [02 Research Methods and Methodologies](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/02%20Research%20Methods%20and%20Methodologies.md)
+    
+    * [03 Quantitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/03%20Quantitative%20Research%20Methods.md)
+    
+    * [04 Quantitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/04%20Quantitative%20Methods%2C%20Collection%20and%20Analysis.md)
+    
+    * [05 Qualitative Methods](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/05%20Qualitative%20Research%20Methods.md)
+    
+    * [06 Qualitative Data Collection and Analysis](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/06%20Qualitative%20Data%20Collection%20and%20Analysis.md)
+    
+    * [07 Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/07%20Evaluation.md)
+    
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/reading)
