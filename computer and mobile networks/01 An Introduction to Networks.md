@@ -27,6 +27,10 @@
 - [**1.5 Packet and Circuit Switching**](#15-packet-and-circuit-switching)
   * [**1.5.0 Reading**](#150-reading)
   * [**1.5.1 Packet and Circuit Switching**](#151-packet-and-circuit-switching)
+    + [**Comparison**](#comparison)
+  * [**1.5.2 Measuring a Network**](#152-measuring-a-network)
+    + [**Problems**](#problems)
+    + [**Delays**](#delays)
 
 ---
 &emsp;
@@ -98,7 +102,7 @@ Hosts can be further divided into two categories: **clients** and **servers**.
 &emsp;
 #### **DSL Access:**
 
-**Digital subscriber line **(DSL) is typically provided by the telephone company (telco) providing the phone line:
+**Digital subscriber line** (DSL) is typically provided by the telephone company (telco) providing the phone line:
 * DSL modems use the existing twisted-pair copper wire to exchange data with a 
 **digital subscriber line access multiplexer** (DSLAM) operated by the telco
 * The modem takes digital data and translates it to high frequency tones for transmission over telephone wires, with the DSLAM translating the analogue signal back to digital
@@ -233,7 +237,8 @@ Messages sent can have a variety of delivery options:
 
 ### **1.4.0 Reading**
 * *Required: Chapter 1, Computer Networking: A Top-Down Approach, Kurose and Ross*
-* *Extension: none*
+* *Extension: Chapter 4, Distributed Network Systems, Weija and Wanlei*
+* *Extension: Chapter 7, Computer Science: The Hardware, Software, and Heart of It, Fan Chung and Blum*
 
 &emsp;
 ### **1.4.1 ISO/OSI Model**
@@ -324,6 +329,9 @@ All packets have a sender and a receiver with the aim of getting the packet from
 * A connection is established, data is transferred, and then it is disconnected
 * It is not an overly efficient approach
 
+&emsp;
+#### **Comparison:**
+
 Packet switching has several advantages over circuit switching. 
 * It has minimal transmission latency 
 * It is more fault tolerant as packets can use different paths if a resource is unavailable
@@ -337,14 +345,23 @@ However, there are also some disadvantages of using packet switching over circui
 * Transmission delay is more likely due to rerouting of packets
 * Therefore, for larger amounts of data, circuit switching may be better
 
+&emsp;
+### **1.5.2 Measuring a Network**
+
 Networks are measured using **bits** for transfer speed and **bytes** for capacity, and their efficiency is determined by the flow of traffic. 
 
 **Bandwidth** is the transmission speed of the media being used and is purchased from an ISP directly.
+
+&emsp;
+#### **Problems:**
 
 There are three measures that are important to identifying network problems:
 * **Delay** – where packets are delayed in delivery
 * **Loss** – where packets are lost, resulting in re-transmission or poor-quality content
 * **Throughput** – a measure of the time it takes to transmit data between two endpoints
+
+&emsp;
+#### **Delays:**
 
 There are also four types of delay relating to packet switching:
 * **Transmission delay** – the time taken to put the bits onto the medium
