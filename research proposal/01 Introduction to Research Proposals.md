@@ -3,7 +3,24 @@
 
 ## **1.0 Table of Contents**
 
-- 
+- [**1.0 Table of Contents**](#10-table-of-contents)
+- [**1.1 Learning Objectives**](#11-learning-objectives)
+- [**1.2 Summary**](#12-summary)
+- [**1.3 Academic Strengths and Developmental Areas**](#13-academic-strengths-and-developmental-areas)
+  * [**1.3.0 Reading**](#130-reading)
+  * [**1.3.1 Academic and Research Skills**](#131-academic-and-research-skills)
+  * [**1.3.2 Quantitative, Qualitative, Mixed Methods**](#132-quantitative-qualitative-mixed-methods)
+- [**1.4 Areas of Interest**](#14-areas-of-interest)
+  * [**1.4.0 Reading**](#140-reading)
+  * [**1.4.1 Fields and Disciplines**](#141-fields-and-disciplines)
+  * [**1.4.2 Potential Project Consideration**](#142-potential-project-consideration)
+    + [**Choosing a Project**](#choosing-a-project)
+- [**1.5 Fields of Study**](#15-fields-of-study)
+  * [**1.5.0 Reading**](#150-reading)
+  * [**1.5.1 Fields, Approaches, and Nature**](#151-fields-approaches-and-nature)
+  * [**1.5.2 Topics and Units of Analysis**](#152-topics-and-units-of-analysis)
+    + [**Units of Analysis**](#units-of-analysis)
+    + [**Clustering**](#clustering)
 
 ---
 &emsp;
@@ -17,7 +34,11 @@
 &emsp;
 ## **1.2 Summary**
 
+Academic research projects require viability, critical assessment, and a degree of self-reflection. Topics should be interesting and creative, and clustering techniques can help make broad subjects viable by exploring subtopics to potentially focus on.
 
+As Computer Science covers various fields and disciplines, it is able to take interdisciplinary approaches to addressing societal challenges. It is important to consider whether the skills held match the skills demanded by any chosen approach.
+
+Research can be classified according to field, approach, and nature. However, good research skills, such as exhibiting open-mindedness and critical analysis, transcend these categories.
 
 ---
 &emsp;
@@ -125,14 +146,14 @@ Considering the range of potential projects that match both interests and skills
 
 Unlike research degree projects, those for taught degrees do not need to make significant breakthroughs or be necessarily be publishable.
 
-The different types of Computer Science projects have been suggested to be:
+The different types of Computer Science projects have broadly been suggested to be:
 * **Research based**
 * **Development**
 * **Evaluation**
 * **Industry based**
 * **Problem solving**
 
-Similarly, the different areas for Computer Science projects include:
+These different types of project may involve work in the following areas:
 * Algorithms and data structures
 * Applied computer science
 * Artificial intelligence
@@ -157,23 +178,94 @@ Identifying existing skills and knowledge, as done previously, can help determin
 
 Investigating [previous university projects](https://www.cs.york.ac.uk/library/onlineprojlib/) and conducting wider reading can provide inspiration or ideas for building upon existing work.
 
-Two recommended techniques for revealing potential areas for research include:
-* **Clustering** - listing keywords related to areas of interest and logically grouping them together
-* **Brainstorming** involves listing ideas quickly and without judgement, evaluating and assessing them after
-<p align="center">
-  <img src="images/01/0101exampleproject.jpg" alt="Clustering example">
-</p>
+* **Brainstorming** can also be used to generate ideas quickly. It involves listing ideas quickly and without judgement, evaluating and assessing them after
 
-Asking **"so what?"** can help add depth and ensure a project is meaningful or at least interesting.
+A university brainstorming activity offered the following potential topics:
+* Developing a time-series model pipeline for accurate price validation of products
+* Developing a model to identify fake news based on features and content
+* Developing a multi-agent reinforcement learning model of the stock markets
+* Predicting cybersecurity threats with time-series analysis 
+* Perceptions on privacy concerns in relation to smart homes devices  
+* Developing a model that can identify plagarism involving AI generated text
+
+Asking **"so what?"*** can help add depth and ensure a project is meaningful or at least interesting.
 
 ---
 &emsp;
-## **1.5 Reflection**
+## **1.5 Fields of Study**
 
 ### **1.5.0 Reading**
-* *Required: none*
-* *Extension: none*
+* *Required: Chapters 2, 3, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Required: Chapter 2, Research Design, Qualitative, Research Design, Qualitative, Quantitative and Mixed Methods Approaches, Creswell and Creswell*
+* *Extension: Chapters 7, 8, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
 
 &emsp;
-### **1.5.1 Fields and Disciplines**
+### **1.5.1 Fields, Approaches, and Nature**
 
+Research can be classified from different perspectives: field, approach, and nature.
+
+Research **field** is a label used to group research and researchers with similar interests, such as artifical intellignce or information systems.
+
+**Approach** relates to the research methods employed in the research process, such as surveys or experiments.
+
+The **nature** of research describes its overall contribution to knowledge and can be broken down further:
+* Purely theoretical
+* Evaluating theory for its practical application
+* Applying research with a practical outcome
+
+Please note that **purpose** is categorised under nature in this classification, as the purpose of research is knowledge.
+
+Regardless of the classification, good research tends to involve similar characteristics:
+* **Open mindedness** - questioning conventional wisdom 
+* **Critical analysis** - considering alternative interpretations and sources
+* **Generalisations** - making generalisations and specifying limits on them
+
+&emsp;
+### **1.5.2 Topics and Units of Analysis**
+
+Some social science texts may use the term **research object** where Computer Science would use **topic** or **phenomenon**.
+
+Generally, the topic should be of interest, creative, and not repetitive. 
+
+Some useful techniques to get started include:
+* Describing an interesting area in a sentence
+* Creating an initial working title
+* Phrasing the topic as a question
+
+Initally the topic may be broad, but needs to refined and narrowed to ensure the project has a viable scope. This can be aided by asking the following questions:
+* What phenomena are of interest?
+* What are the main problems?
+* What are the boundaries?
+
+Deliberately practicing topic identification, adding context, and narrowing breadth, can be useful.
+
+&emsp;
+#### **Units of Analysis:**
+ 
+The **unit of analysis** is the *what* and *who* being studied: individuals, groups, artefacts, theories etc.
+
+As there should be discussion about it at the end of a study, any issues should be identified prior to beginning. These could include accessibility and ethical issues.
+
+&emsp;
+#### **Clustering:**
+
+**Clustering** is a technique that can help refine broad topics by exploring aspects that can be focused on.
+
+This generally involves listing keywords related to areas of interest and logically grouping them together
+
+One such technique is using **Research Territory Maps** (RTM). These can help explore links between subtopics:
+<p align="center">
+  <img src="images/01/0102researchterritory.jpg" alt="Research territory">
+</p>
+
+Alternatively, **relevance trees** can be used. These take high level thoughts about a field and make them more specific:
+<p align="center">
+  <img src="images/01/0103relevancetree.jpg" alt="Relevance tree">
+</p>
+
+Finally, traditional **spider diagrams** are an option. These involve elements of both previous techniques:
+<p align="center">
+  <img src="images/01/0104spiderdiagram.jpg" alt="Spider diagram">
+</p>
+
+Obviously these are not exclusive, and multiple diagrams can be used. 
