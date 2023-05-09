@@ -11,7 +11,7 @@
 
 </div>
 
-A repository to hold the lecture and activity notes from the University of York MSc Computer Science course. 
+A repository to hold lecture and activity notes from the University of York MSc Computer Science course. 
 
 Carousel modules included Algorithms and Data Structures, Advanced Programming, Artificial Intelligence and Machine Learning, Big Data Analytics, Computer and Mobile Networks, Computer Architecture and Operating Systems, Cyber Security Threats, Research Methods, Software Engineering.
 
