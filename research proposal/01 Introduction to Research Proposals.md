@@ -165,3 +165,15 @@ Two recommended techniques for revealing potential areas for research include:
 </p>
 
 Asking **"so what?"** can help add depth and ensure a project is meaningful or at least interesting.
+
+---
+&emsp;
+## **1.5 Reflection**
+
+### **1.5.0 Reading**
+* *Required: none*
+* *Extension: none*
+
+&emsp;
+### **1.5.1 Fields and Disciplines**
+
