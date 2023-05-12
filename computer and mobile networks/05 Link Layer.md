@@ -60,7 +60,7 @@ Common error detection solutions use mathematical approaches, with the resulting
 
 ---
 &emsp;
-## **5.3 What is the Link Layer?:**
+## **5.3 What is the Link Layer?**
 
 ### **5.3.0 Reading**
 * *Required: Chapters 1, 4, 5, Computer Networking: A Top-Down Approach, Kurose and Ross*
@@ -321,7 +321,7 @@ As well as leased IP addresses, DHCP also maintains reserved and fixed IP addres
 
 ---
 &emsp;
-## **5.4 Carrier Sense Multiple Access/Collision Detection:**
+## **5.4 Carrier Sense Multiple Access/Collision Detection**
 
 ### **5.4.0 Reading**
 * *Required: Chapter 5, Computer Networking: A Top-Down Approach, Kurose and Ross*
@@ -368,7 +368,7 @@ As well as CSMA/CD, different access methods exist to allow devices to share com
 
 ---
 &emsp;
-## **5.5 Error Detection and Correction:**
+## **5.5 Error Detection and Correction**
 
 ### **5.5.0 Reading**
 * *Required: Chapters 5, 6, Computer Networking: A Top-Down Approach, Kurose and Ross*

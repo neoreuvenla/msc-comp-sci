@@ -49,7 +49,7 @@ Secondly TCP, a connection-orientated protocol that guarantees delivery of data.
 
 ---
 &emsp;
-## **3.3 What is the Transport Layer?:**
+## **3.3 What is the Transport Layer?**
 
 ### **3.3.0 Reading**
 * *Required: none*
@@ -125,7 +125,7 @@ Transport layer protocols can provide various types of **security** services to 
 
 ---
 &emsp;
-## **3.4 UDP (Connectionless):**
+## **3.4 UDP (Connectionless)**
 
 ### **3.4.0 Reading**
 * *Required: Chapter 3, Computer Networking: A Top-Down Approach, Kurose and Ross*
@@ -206,7 +206,7 @@ At a transmitting device, the data-encapsulation method works as follows:
 
 ---
 &emsp;
-## **3.5 TCP (Connection):**
+## **3.5 TCP (Connection)**
 
 ### **3.5.0 Reading**
 * *Required: Chapter 3, Computer Networking: A Top-Down Approach, Kurose and Ross*

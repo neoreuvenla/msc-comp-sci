@@ -45,7 +45,7 @@ The Internet Protocol can be used to access the internet, construct networks, an
 
 ---
 &emsp;
-## **4.3 What is the Network Layer?:**
+## **4.3 What is the Network Layer?**
 
 ### **4.3.0 Reading**
 * *Required: Chapter 4, Computer Networking: A Top-Down Approach, Kurose and Ross*
@@ -105,7 +105,7 @@ On packet-switched computer networks, data is communicated in bit chunks called 
 
 ---
 &emsp;
-## **4.4 IPv4 and IPv6:**
+## **4.4 IPv4 and IPv6**
 
 ### **4.4.0 Reading**
 * *Required: Chapter 4, Computer Networking: A Top-Down Approach, Kurose and Ross*
@@ -174,7 +174,7 @@ Important IPv6 header tags are noted below:
 
 ---
 &emsp;
-## **4.5 Network Addresses:**
+## **4.5 Network Addresses**
 
 ### **4.5.0 Reading**
 * *Required: Chapter 4, Computer Networking: A Top-Down Approach, Kurose and Ross*
