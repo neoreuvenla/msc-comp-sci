@@ -62,7 +62,7 @@ The university provides support for this proceess:
 * [Finding and researching](https://subjectguides.york.ac.uk/skills/find)
 
 &emsp;
-#### **Literature Survey Process:**
+### **2.3.2 Literature Survey Process:**
 
 The **literature survey** is made up of concurrent searches and reviews. It is:
 * An ongoing, iterative process
@@ -82,14 +82,142 @@ Any material found requires critical evaluation. This provides the basis for the
 
 Having completed a cycle of the spiral, more questions or influencing factors may have been uncovered. Similarly, it may be apparent that the focus was too broad or too narrow and requires adjustment. The cycle should, therefore, start again.
 
-
 It is difficult to know when to stop the literature review. While it is impossible to read everything published in an area, the **validity** of the resulting study will be enchanced by undertaking a systematic process.
 
+---
+&emsp;
+## **2.4 Literature Searching**
 
+### **2.4.0 Reading**
+* *Required: Chapter 5, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Required: Chapter 3, Writing For Computer Science, Zobel*
+* *Extension: none*
 
+&emsp;
+### **2.4.1 Understanding Literature Searching**
 
+With the topic identified, a systematic search for relevant and credible literature can begin. Activities, such as relevance trees, will provide various key areas, phrases, and words with which to start.
 
+The purpose of literature searching is to be well informed about existing research on a topic, identify gaps in current knowledge, and avoid duplicating previous work.
 
+It is important to develop effective reading skills in order to identify the **contributions**, **value**, and **flaws** of research papers.
 
+As papers are read, the reesarcher should attempt to establish:
+* Novelty
+* Theories
+* Debates
+* New directons
+* Alternative perspectives
 
+Note that it is recommended to seperate the searching and reading of papers: gather material uncritically, and analyse subsequently.
 
+The types of literature suitable for examination are:
+* **Primary** - original research reports
+* **Secondary** - reviews, surverys, and evaluations of primary literature
+* **Tertiary** - encyclopedias and textbooks that summarise secondary literature
+
+It would not be expected to use sources like lab notebooks or survey responses in the search.
+
+&emsp;
+#### **Resources:**
+
+Generally, **credible** sources will have been published and peer reviewed.
+
+The literature ultimately relied upon should primarily consist of refereed and published papers, theses examined at reputable institutions, and books based on refereed sources.
+
+A possible starting point if the university library webpages:
+* [University of York Library](https://www.york.ac.uk/library/)
+* [E-resources guide](https://subjectguides.york.ac.uk/az.php)
+
+**Abstracts** appear at the beginning of academic papers and provide a concise summary of the research conducted. Searching **abstract databases** can be an efficient approach. However, it is important to read the actual papers when relevant.
+
+Similarly, specialised **internet search engines**, such as Google Scholar, can be used to locate resources. The university provides some [guidance](https://subjectguides.york.ac.uk/searching/skills) on using search engines.
+
+**Reference lists** at the end of academic papers contain lists of sources used by the authors in their research. These can be used to direct a literature search.
+
+**Wikipedia** can be useful for general overviews, but caution is needed due to the lack of academic refereeing. 
+
+Resources specific to Computer Science include:
+* [ACM](https://dl.acm.org/) - digital library of all material published by the ACM
+* [IEEE Computer Society](https://www.computer.org/publications) - online biblographic database
+* [IngentaConnect](https://www.ingentaconnect.com/) - collection of academic and professional research articles
+* [HCI Bibliography](https://hcibib.org/) - focus on human computer interaction research
+* [Journal of Digital Information](https://jodi-ojs-tdl.tdl.org) - focus on digital information management
+
+&emsp;
+#### **Tips for Performing a Literature Search:**
+
+Several tips have been suggested to help the search process:
+* Note interesting quotes and references as the search progresses
+* Use review articles and books to help the search
+* Reference correctly from the start
+* Know when to stop based on the plan and research boundaries
+* Organise and catalogue the read material effectively
+* Read recognised leaders and original theorists in the field
+* Start with a broad search before focusing
+* Be honest if the research idea is not as original as first thought
+
+&emsp;
+### **2.4.2 Reading Articles and Books**
+
+Most academic publications come in three forms: articles, edited chapters, and books.
+
+&emsp;
+#### **Critical Reading:**
+
+**Critical reading** goes beyond understanding a text. It involves:
+* Evaluating evidence and arguments
+* Understanding research limitations
+* Identifying explicit or implicit influences
+* Personal agreement or disagreement
+* Identifying emerging themes across various texts
+
+An important first step is the source: ideally **peer-reviewed** journal articles.
+
+Evaluating sources is a key part of critical reading. Factors to consider include:
+* Authority of the author
+* Intended audience
+* Purpose of the work
+* Quality of the argument
+* Relevance of the content
+* Accuracy of the content
+<p align="center">
+  <img src="images/02/0204evaluationcriteria.jpg" alt="Evaluation criteria">
+</p>
+
+Questions that can aid a critical reading are presented below:
+<p align="center">
+  <img src="images/02/0205criticalreading.jpg" alt="Critical reading">
+</p>
+
+However, critical thinking should not be confused with general criticism: the former is about evaluation strength and validity of arguments, not finding fault in a derogatory way.
+<p align="center">
+  <img src="images/02/0206examplecriticism.jpg" alt="Example critcism">
+</p>
+
+&emsp;
+#### **SQ3R Model:**
+
+Several models exist to help read and review literature. The **SQ3R model** is one such example, which can be used for effective reading and information absorption:
+* Survey
+* Question
+* Read
+* Recite
+* Review
+<p align="center">
+  <img src="images/02/0207sq3rmethod.jpg" alt="Example critcism">
+</p>
+
+The first step is to **survey** the document by looking at the title, authors' names, abstract, table of contents, and headings.
+
+Next, **questions** should be created based on these areas. These should be specific queries.
+
+The **reading** process involves reading the document selectively, section by section, and using annotations to summarise key information. This should allow answerable questions from the previous stage to be identified.
+
+**Reciting** or rewording the information is essential for understanding and paraphrasing the key points.
+
+After some time has passed, perhaps a day, the notes can be **reviewed** for clarity. 
+
+Once this process is complete, revisiting questions and reviewing answers aids both retention and comprehension.
+
+Further supporting resources are [available](https://subjectguides.york.ac.uk/skills/critical-reading) through the university.
