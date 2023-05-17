@@ -35,7 +35,7 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [06 Mobile and Satellite](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/06%20Mobile%20and%20Satellite.md)
     
-    * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cyrptography.md)
+    * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
     
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/reading)
 
