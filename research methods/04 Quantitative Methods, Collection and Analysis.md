@@ -107,7 +107,6 @@ Findings should then begin to emerge. A researcher will consider whether the hyp
 Writing up the research is more than juts relaying what has been done. Readers must be convinced that there the conclusions are important and robust.
 
 A representation of these steps is shown below, but in practice research is rarely this neat:
-
 <p align="center">
   <img src="images/04/0401quantitativeprocess.jpg" alt="Quantitative flow chart">
 </p>
