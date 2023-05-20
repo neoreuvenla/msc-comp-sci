@@ -91,7 +91,7 @@ Both questions and hypotheses should be directly linked to the context of the st
 
 ---
 &emsp;
-## **3.4 Making Choices**
+## **3.4 Looking Forward**
 
 ### **3.4.0 Reading**
 * *Required: Chapter 7, Projects In Computing And Information Systems: A Student's Guide, Dawson*
@@ -120,3 +120,85 @@ It is important to understand the role of a **supervisor** in the project: they 
 
 &emsp;
 ### **3.4.2 Independent Research Project (IRP) Outline**
+
+The **Independent Research Project** (IRP) is a module wherein the student will produce an individual piece of research under the guidance of a supervisor.
+
+The Research Proposal (RP) module is 8 weeks and the Independent Resarch Project is 16: a total of 24 weeeks working on the project. This is divided into 5 phases:
+* Phase 1 - definition (RP)
+* Phase 2 - planning (RP)
+* Phase 3 - initiation (IRP)
+* Phase 4 - control (IRP)
+* Phase 5-  closure (IRP)
+
+The IRP requires the submission of a final **research proposal**. It is expected that this will be the proposal developed for the assessment in the preceding Research Proposal module, however this can be updated, adapated, or changed. 
+
+The timetable for submitting a proposal is constrained by the time it takes to get **ethical approval**, if needed.
+
+&emsp;
+#### **IRP Control Phase:**
+
+The **control** phase involves managing and controlling five project elements: time, scope, quality, resources, and cost.
+<p align="center">
+  <img src="images/03/0303projectelements.jpg" alt="Project elements">
+</p>
+
+**Time**, **scope**, and **quality** should be monitored closely to ensure tasks are completed according to the project plan and objectives.
+
+Project management involves making tradeoffs between elements as the project progresses. These are summarised below, with the exception of cost which is not within the control of the project:
+<p align="center">
+  <img src="images/03/0304tradeoffs.jpg" alt="Element tradeoffs">
+</p>
+
+The goal is to ensure the project is completed on time, with the best possible effort.
+
+&emsp;
+#### **IRP Closure Phase:**
+
+The **closure** phase refers to the point where all research activities are completed and the project itself needs to be finalised.
+
+Data collection and analysis needs to be checked to ensure that all data has been collected and analysed according to the research design.
+
+Similarly, the conclusions based on the data analysis needs to be finalised. This may involve going through several drafts before considering this section completed.
+
+The final report needs to be written, conforming to the relevant standards. This should include the research question or hypothesis, methodology, data analysis, results, conclusion, and recommendations.
+
+&emsp;
+### **3.5.3 Defining Constructs**
+
+With units of analysis and research objects previously discussed, the **construct** of the research needs to be considered. This relates to:
+* The key concepts and topics of the research
+* These are not directly observable
+* However, they can be inferred from observed and measured data
+
+**Construct clarity** refers to the practice of carefully identifying strong categories that condense concepts and processes as distinctly as possible.
+
+Clear constructs are important for other researchers: they enable the identification fo problems, potential links to background concepts, and concepts deserving further investigation.
+
+Therefore, for clarity, the **research domain** and the techniques employed should be stated as early as possible in the proposal and paper. For example, *"this research project aims at investigating possible solutions to extract usable work from a physical system, quantifying the performance studying variations of the entropy of the system"* identifies the domain in a physics paper clearly.
+
+&emsp;
+#### **Facet Theory:**
+
+To aid in achieving construct clarity, **Facet Theory** can be employed. This is a meta-theoretical framework that provides structure to complex, multidimensional concepts: 
+* A facet of habitat would result in the frog and duck being grouped together
+* However, a zoological classification would result in the duck and hen being together
+* Careful consideration of the topic and expected outcomes is therefore important
+<p align="center">
+  <img src="images/03/0305facettheory.jpg" alt="Facet theory">
+</p>
+
+Facet Theory can be applied to research using the following phases: 
+* Identify the **domain** - determine the conceptual universe to be investigated, eg customer satisfaction
+* Determine the **facets** - within this domain, exhaustively identify the facets that can be studied independently, eg product quality, customer service, price
+* Identify the **elements** - determine the elements within each facet, eg product quality may be made up of durability, functionality, aesthetics
+* Create a **mapping sentence** - a comprehensive statement that outlines the structure of the concept according to the facets, elements, and their interactions
+* Generate a **data collection instrument** - create a data collection instrument, such as a survery or questionnaire, that captures data on all facets and elements
+* Analyse **data** - use statistical methods to analyse the data, taking into accountt he structure provided by the facets and elements
+* Verify **model** - verify the theory using empirical data, potentially through comparing the model's predictions with the observed data or coherence with theories
+
+
+
+
+
+
+
