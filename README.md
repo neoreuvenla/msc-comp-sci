@@ -21,6 +21,10 @@ Concluding modules included Research Proposal and Independent Research Project.
 
 ## **Repository Contents**
 
+<p align="center">
+  <img src="computer and mobile networks/images/camn.png" alt="Computer and Mobile Networks">
+</p>
+
 - [**COM00147M Computer and Mobile Networks**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks)
 
     * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/01%20An%20Introduction%20to%20Networks.md)
@@ -40,6 +44,10 @@ Concluding modules included Research Proposal and Independent Research Project.
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/reading)
 
 <br>
+
+<p align="center">
+  <img src="research methods/images/researchmethods.png" alt="Research methods">
+</p>
 
 - [**COM00146M Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods)
 
@@ -61,7 +69,11 @@ Concluding modules included Research Proposal and Independent Research Project.
 
     <br>
 
-     [**COM00150M Research Proposal**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)
+<p align="center">
+  <img src="research proposal/images/researchproposal.png" alt="Research proposal">
+</p>
+
+- [**COM00150M Research Proposal**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)
 
     * [01 Introduction to Research Proposals](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/01%20Introduction%20to%20Research%20Proposals.md)
     
