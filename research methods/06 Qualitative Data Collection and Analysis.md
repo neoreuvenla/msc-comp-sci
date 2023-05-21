@@ -60,7 +60,7 @@ Qualitative methods are useful for gaining a deep understanding of human behavio
 * Develop theory
 * Consider results in relation to a priori frameworks for understanding 
 <p align="center">
-  <img src="images/06/0601commonapproach.jpg" alt="Common approach summary">
+  <img src="img/06/0601commonapproach.jpg" alt="Common approach summary">
 </p>
 
 There are many qualitative analysis techniques available to researchers, such as **thematic**, **discourse**, **hermeneutics**, **semiotics**, and **conversation analyses**. 
@@ -85,7 +85,7 @@ It is an interpretive methodology approach that provides a comprehensive analyti
 * Coding data – **open** initially for eliciting themes with **axial** and **selective** in later iterations
 * Theorising to achieve saturation of themes through coding and recoding iteration
 <p align="center">
-  <img src="images/06/0602systematicanalysis.jpg" alt="Systematic analysis summary">
+  <img src="img/06/0602systematicanalysis.jpg" alt="Systematic analysis summary">
 </p>
 
 Generally, grounded theory is a protracted, rigorous, and detailed analytical approach.
@@ -151,7 +151,7 @@ The basic steps include:
 * Reviewing, removing, and defining themes
 * Producing the final report
 <p align="center">
-  <img src="images/06/0603thematicanalysis.jpg" alt="Thematic analysis illustration">
+  <img src="img/06/0603thematicanalysis.jpg" alt="Thematic analysis illustration">
 </p>
 
 The advantages of thematic analysis lie in its flexibility and accessibility for novice researchers. However, by nature it will overlook phenomena that occur in in individual records.

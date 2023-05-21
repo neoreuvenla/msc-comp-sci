@@ -232,7 +232,7 @@ There are four types of **observation**: structured, participant, internet media
 
 **Structured observation** is a direct or indirect quantitative approach with a high level of predetermination in that the researcher will have a thorough checklist of what to observe.
 <p align="center">
-  <img src="images/05/0501structuredobservation.jpg" alt="Structured critical summary">
+  <img src="img/05/0501structuredobservation.jpg" alt="Structured critical summary">
 </p>
 
 
@@ -241,7 +241,7 @@ There are four types of **observation**: structured, participant, internet media
 
 **Participant observation** involves the researcher being covert or overt and involved or observing. Some of these combinations may cause ethical issues. It is a key method in ethnographic research. 
 <p align="center">
-  <img src="images/05/0502participantobservation.jpg" alt="Participant critcial summary">
+  <img src="img/05/0502participantobservation.jpg" alt="Participant critcial summary">
 </p>
 
 
@@ -255,13 +255,13 @@ There are four types of **observation**: structured, participant, internet media
 * **Unstructured** interviews are undirected, with topics emerging from the discussion
 * **Semi structured** interviews allow a researcher to steer a dialogue among topics
 <p align="center">
-  <img src="images/05/0503interviews.jpg" alt="Interviews critical summary">
+  <img src="img/05/0503interviews.jpg" alt="Interviews critical summary">
 </p>
 
 
 Interview design should involve consideration of the purpose of the research, who to speak to, how to conduct the interview, what data is required, and what will be done with the data.
 <p align="center">
-  <img src="images/05/0504interviewapproaches.jpg" alt="Interview approaches diagram">
+  <img src="img/05/0504interviewapproaches.jpg" alt="Interview approaches diagram">
 </p>
 
 

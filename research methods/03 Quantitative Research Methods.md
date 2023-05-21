@@ -84,7 +84,7 @@ Evaluation of a study requires evidence, which should be:
 * **Empirical investigations** – common tasks, identified goals and measures, research methods, planning, data collection, results, validity considerations, conclusions
 * **Qualitative** and **quantitative** – these vary as shown below:
 <p align="center">
-  <img src="images/03/0301quantitativequalitative.jpg" alt="Quantitative vs qualitative data">
+  <img src="img/03/0301quantitativequalitative.jpg" alt="Quantitative vs qualitative data">
 </p>
 
 &emsp;
@@ -161,7 +161,7 @@ The second distinction regards quantitative or qualitative data:
 
 Both primary and secondary data can be obtained from a variety of sources:
 <p align="center">
-  <img src="images/03/0302primarysecondary.jpg" alt="Primary vs secondary data">
+  <img src="img/03/0302primarysecondary.jpg" alt="Primary vs secondary data">
 </p>
 
 &emsp;
@@ -238,7 +238,7 @@ Data and knowledge go from the general to the particular; **abstract** to **conc
 * Variables – components of the indicators which can be measured
 * Values – actual units of measurement of the variables
 <p align="center">
-  <img src="images/03/0303dataabstraction.jpg" alt="Abstract continuum">
+  <img src="img/03/0303dataabstraction.jpg" alt="Abstract continuum">
 </p>
 
 &emsp;
@@ -382,7 +382,7 @@ General factors that influence the choice of statistical test include:
 
 Choice of statistical test can be aided through the flow chart below:
 <p align="center">
-  <img src="images/03/0305testchoice.jpg" alt="Statistical test choice">
+  <img src="img/03/0305testchoice.jpg" alt="Statistical test choice">
 </p>
 
 The University of York provides guides for statistics [here](https://subjectguides.york.ac.uk/maths-skills-centre/statistics).

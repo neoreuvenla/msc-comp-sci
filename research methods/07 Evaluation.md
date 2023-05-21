@@ -66,7 +66,7 @@ Dr Mittelstadt used the term **data ethics** to describe the moral principles th
 * Ethical frameworks such as consequentialism and deontology can mitigate concerns
 * Some professions provide ethical codes and guidelines which should, or must, be adhered to 
 <p align="center">
-  <img src="images/07/0701dataethics.jpg" alt="Data ethics overview">
+  <img src="img/07/0701dataethics.jpg" alt="Data ethics overview">
 </p>
 
 The Alan Turing Institute's Data Ethics Group commented on the ethical use of data within the NHS.
@@ -125,7 +125,7 @@ Martensson et al describe a hierarchial model to be used to evaluate research pr
 * Potentially, these areas could be weighted to reflect th specific context
 * This framework is generic and **multi-disciplinary**
 <p align="center">
-  <img src="images/07/0702hierarchy.jpg" alt="Research quality hierarchy">
+  <img src="img/07/0702hierarchy.jpg" alt="Research quality hierarchy">
 </p>
 
 &emsp;

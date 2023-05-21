@@ -130,7 +130,7 @@ Inspiration can be drawn from existing work completed by academic researchers at
 
 An example in the human interaction field, indicating academic discipline and methodology, is shown below:
 <p align="center">
-  <img src="images/01/0101exampleproject.jpg" alt="Example project">
+  <img src="img/01/0101exampleproject.jpg" alt="Example project">
 </p>
 
 Many of these topics combine disciplinary fields. This is referred to as **interdisciplinarity** and is increasingly common.
@@ -255,17 +255,17 @@ This generally involves listing keywords related to areas of interest and logica
 
 One such technique is using **Research Territory Maps** (RTM). These can help explore links between subtopics:
 <p align="center">
-  <img src="images/01/0102researchterritory.jpg" alt="Research territory">
+  <img src="img/01/0102researchterritory.jpg" alt="Research territory">
 </p>
 
 Alternatively, **relevance trees** can be used. These take high level thoughts about a field and make them more specific:
 <p align="center">
-  <img src="images/01/0103relevancetree.jpg" alt="Relevance tree">
+  <img src="img/01/0103relevancetree.jpg" alt="Relevance tree">
 </p>
 
 Finally, traditional **spider diagrams** are an option. These involve elements of both previous techniques:
 <p align="center">
-  <img src="images/01/0104spiderdiagram.jpg" alt="Spider diagram">
+  <img src="img/01/0104spiderdiagram.jpg" alt="Spider diagram">
 </p>
 
 Obviously these are not exclusive, and multiple diagrams can be used. 

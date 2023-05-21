@@ -72,7 +72,7 @@ Generally, the writing should:
 * Maintain an objective tone and avoid emotive language
 * Follow grammatical rules and contain accurate spelling
 <p align="center">
-  <img src="images/01/0101academicwriting.jpg" alt="Academic writing">
+  <img src="img/01/0101academicwriting.jpg" alt="Academic writing">
 </p>
 
 &emsp;
@@ -88,7 +88,7 @@ Poor **referencing** is one of the most common faults in academic writing.
 
 Descriptive writing is informative in that it presents facts to the reader. However, it does not contain the **who**, **what**, **where**, **how**, or **why** needed in academic writing, which should be investigative, evaluative, and critical. 
 <p align="center">
-  <img src="images/01/0102descriptivecritical.jpg" alt="Descriptive versus critical">
+  <img src="img/01/0102descriptivecritical.jpg" alt="Descriptive versus critical">
 </p>
 
 Without evidence, statements are viewed as purely speculative. This includes indirect assumptions.
@@ -103,7 +103,7 @@ A **typical paragraph** may be constructed as follows:
 * Make a claim opposing your topic with evidence – this strengthens your argument
 * Close your argument – bringing ideas together and possibly help paragraph transition
 <p align="center">
-  <img src="images/01/0103academicparagraph.jpg" alt="Academic paragraph">
+  <img src="img/01/0103academicparagraph.jpg" alt="Academic paragraph">
 </p>
 
 Each point should be linked to the previous and subsequent points to provide logical progression to the piece.
@@ -112,7 +112,7 @@ Each point should be linked to the previous and subsequent points to provide log
 * Rephrasing the topic sentence in light of the discussion can be helpful
 * New ideas should not be introduced at the end of paragraphs
 <p align="center">
-  <img src="images/01/0104conclusionstructure.jpg" alt="Conclusion structure">
+  <img src="img/01/0104conclusionstructure.jpg" alt="Conclusion structure">
 </p>
 
 Paragraphs should show **unity**: each sentence is directly related to the topic, giving a single focus.
@@ -227,7 +227,7 @@ Selection of a research approach depends on several factors such as:
 * Personal experiences
 * The intended audience for the study
 <p align="center">
-  <img src="images/01/0105researchapproaches.jpg" alt="Research approaches">
+  <img src="img/01/0105researchapproaches.jpg" alt="Research approaches">
 </p>
 
 The three research approaches commonly used are **qualitative**, **quantitative**, and **mixed methods**. 
@@ -326,7 +326,7 @@ Mixed methods designs allow for the integration of both qualitative and quantita
 * Qualitative research seeks meaning from the views of participants
 * Quantitative research tests theories with narrow focused data collection
     <p align="center">
-  <img src="images/01/0106researchmethods.jpg" alt="Research methods">
+  <img src="img/01/0106researchmethods.jpg" alt="Research methods">
 </p>
     
 &emsp;
@@ -346,7 +346,7 @@ Qualitative approaches are useful when the concept has little research or has an
 
 This can be summarised as follows:
 <p align="center">
-  <img src="images/01/0107typicaltraits.jpg" alt="Typical method traits">
+  <img src="img/01/0107typicaltraits.jpg" alt="Typical method traits">
 </p>
 
 &emsp;
@@ -372,7 +372,7 @@ Work in Computer Science is generally intangible. Therefore, research must aim t
 
 The table below indicates considerations for forming research questions:
 <p align="center">
-  <img src="images/01/0108researchquestions.jpg" alt="Research questions">
+  <img src="img/01/0108researchquestions.jpg" alt="Research questions">
 </p>
 
 Students in Computer Science will often form a solution rather than a problem.
@@ -389,7 +389,7 @@ Interesting questions still must be **theoretically sound**, both in constructio
 * For example: the phrase help students could be reframed to explore what kind of help
 * This could focus on support for the activity, learning code, or error tracking and fixing
 <p align="center">
-  <img src="images/01/0109questionscritique.jpg" alt="Question critique">
+  <img src="img/01/0109questionscritique.jpg" alt="Question critique">
 </p>
 
 Therefore, a good research question:

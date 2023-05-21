@@ -102,7 +102,7 @@ Terminology used to describe research and activities, varying in degrees of abst
 * **Axiological assumptions** – the way personal values influence the research process
 * This includes ethics and values held and must be recognised in the research
     <p align="center">
-  <img src="images/02/0201knowledgediagram.jpg" alt="Knowledge diagram">
+  <img src="img/02/0201knowledgediagram.jpg" alt="Knowledge diagram">
 </p>
 
 **Research paradigms** refer to the researcher’s philosophical stance or world view.
@@ -111,7 +111,7 @@ Terminology used to describe research and activities, varying in degrees of abst
 * Each shape and inform the views held on the research
 * In turn, they affect the ontological, epistemological, and methodological choices made 
 <p align="center">
-  <img src="images/02/0202paradigms.jpg" alt="Knowledge paradigms">
+  <img src="img/02/0202paradigms.jpg" alt="Knowledge paradigms">
 </p>
 
 &emsp;
@@ -119,7 +119,7 @@ Terminology used to describe research and activities, varying in degrees of abst
 
 Research methodology overlaps with method, logic and assumption.
 <p align="center">
-  <img src="images/02/0203iceberg.jpg" alt="Knowledge iceberg">
+  <img src="img/02/0203iceberg.jpg" alt="Knowledge iceberg">
 </p>
 
 &emsp;
@@ -127,7 +127,7 @@ Research methodology overlaps with method, logic and assumption.
 
 **Research methodology** explains the method used to solve the problem or answer the question. It is an examination of the steps taken and the logic behind them.
 <p align="center">
-  <img src="images/02/0204methodology.jpg" alt="Research methodologies">
+  <img src="img/02/0204methodology.jpg" alt="Research methodologies">
 </p>
 
 Qualitative research is an approach for exploring and understanding the meaning individuals or groups assign to a social or human problem. This includes:
@@ -172,17 +172,17 @@ Mixed methods research is an approach involving both previous types of data.
 
 There is a natural order which connects key elements of the research process. Understanding these connections and which elements logically lead to others is essential to designing quality research. 
 <p align="center">
-  <img src="images/02/0205continuum.jpg" alt="Research element continuum">
+  <img src="img/02/0205continuum.jpg" alt="Research element continuum">
 </p>
 
 The process itself can be depicted as an onion, with data collection buried within the core:
 <p align="center">
-  <img src="images/02/0206onion.jpg" alt="Research process onion">
+  <img src="img/02/0206onion.jpg" alt="Research process onion">
 </p>
 
 Alternatively, the starting point for research can influence where to begin the process. Typically t his is the problem or issue, but not always:
 <p align="center">
-  <img src="images/02/0207connections.jpg" alt="Starting point choice">
+  <img src="img/02/0207connections.jpg" alt="Starting point choice">
 </p>
 
 Also note that research is not a linear process, even through models may depict is as such for clarity.
@@ -199,7 +199,7 @@ Through doing this **mixed methods** research seeks to provide more insight into
 
 Mixed methods research has evolved into a set of procedures that researchers can use to plan:
 <p align="center">
-  <img src="images/02/0208checklist.jpg" alt="Mixed methods checklist">
+  <img src="img/02/0208checklist.jpg" alt="Mixed methods checklist">
 </p>
 
 &emsp;
@@ -224,7 +224,7 @@ There are three core mixed methods design:
 * **Explanatory sequential** – collects and analyses qualitative data first, then quantitative
 
 <p align="center">
-  <img src="images/02/0209design.jpg" alt="Research design">
+  <img src="img/02/0209design.jpg" alt="Research design">
 </p>
 
 The **convergent** mixed methods design is one of the most familiar of the approaches:
@@ -343,7 +343,7 @@ Next, the methodology is chosen. This could include:
 
 Each research approach can be broadly characterised as follows:
 <p align="center">
-  <img src="images/02/0210approaches.jpg" alt="Research approaches">
+  <img src="img/02/0210approaches.jpg" alt="Research approaches">
 </p>
 
 &emsp;
@@ -404,7 +404,7 @@ Visual models can be constructed by drawing upon Blalock’s work on causal mode
 * Strength of relationship is indicated by valence signs on the paths
 * Two headed arrows show the unanalysed relationships between variables
 <p align="center">
-  <img src="images/02/0211variables.jpg" alt="Variable interaction">
+  <img src="img/02/0211variables.jpg" alt="Variable interaction">
 </p>
 
 In quantitative studies, theory is used **deductively** and place towards the beginning of the study.
@@ -525,7 +525,7 @@ Research philosophy contains important assumptions about:
 * Knowledge (epistemology)
 * Held values (axiology)
 <p align="center">
-  <img src="images/02/0212assumptions.jpg" alt="Researcher assumptions">
+  <img src="img/02/0212assumptions.jpg" alt="Researcher assumptions">
 </p>
 
 &emsp;
@@ -548,7 +548,7 @@ Research philosophy contains important assumptions about:
 * **Value relevant research** – researchers should acknowledge their personal values
 * **Value bound research** – the researcher is part of what is being researched
 <p align="center">
-  <img src="images/02/0213axiology.jpg" alt="Axiology breakdown">
+  <img src="img/02/0213axiology.jpg" alt="Axiology breakdown">
 </p>
 
 &emsp;
@@ -599,7 +599,7 @@ The main approach is to search online databases using key terms and citations.
 * Draft summaries of the most relevant articles should be created at this point
 * The review itself should be structured thematically
 <p align="center">
-  <img src="images/02/0214web.jpg" alt="Literature review web">
+  <img src="img/02/0214web.jpg" alt="Literature review web">
 </p>
 
 Refereed journals, books, and conference papers are preferred over texts like dissertations.

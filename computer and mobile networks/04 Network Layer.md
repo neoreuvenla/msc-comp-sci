@@ -64,7 +64,7 @@ One of the major responsibilities of the network layer protocol is **host-to-hos
 * This means dealing with addressing, packetization, fragmentation, and routing
 * Concepts such as **internetworking**, connecting various types of links together, are needed
 <p align="center">
-  <img src="images/04/0401hostdelivery.jpg" alt="Host delivery">
+  <img src="img/04/0401hostdelivery.jpg" alt="Host delivery">
 </p>
 
 There are two logical types of packet-switched networks: datagram networks and virtual circuit networks.
@@ -90,7 +90,7 @@ Before datagrams can flow, two end hosts and any intervening routers establish a
 * This allows the sender and receiver to set up the necessary state information
 * For example, sequence numbers, initial flow control window size
 <p align="center">
-  <img src="images/04/0402virtualconnection.jpg" alt="Virtual connection">
+  <img src="img/04/0402virtualconnection.jpg" alt="Virtual connection">
 </p>
 
 On packet-switched computer networks, data is communicated in bit chunks called **packets**.
@@ -100,7 +100,7 @@ On packet-switched computer networks, data is communicated in bit chunks called 
 * The destination network address determines the choice of outgoing interface
 * Therefore, different datagrams can take different paths across the network
 <p align="center">
-  <img src="images/04/0403packetdelivery.jpg" alt="Packet delivery">
+  <img src="img/04/0403packetdelivery.jpg" alt="Packet delivery">
 </p>
 
 ---
@@ -140,7 +140,7 @@ Important IPv4 header tags are noted below:
 * Each router forwarding the packet reduces the value of the field by 1
 * Routers receiving packets with values of 1 will discard the packet to avoid endless loops
 <p align="center">
-  <img src="images/04/0404ipv4header.jpg" alt="IPV4 header">
+  <img src="img/04/0404ipv4header.jpg" alt="IPV4 header">
 </p>
 
 Encapsulating a segment or datagram within an IPv4 header adds an additional 20 bytes of data. This can sometimes be exceeded if some of the optional fields are used.
@@ -169,7 +169,7 @@ Important IPv6 header tags are noted below:
 * **Payload length** – this tells routers how much information a particular packet contains
 * **Hop limit** – helps stop infinite packet loops, like TTL in IPv4. Packets are discarded at 0
 <p align="center">
-  <img src="images/04/0405ipv6header.jpg" alt="IPV6 header">
+  <img src="img/04/0405ipv6header.jpg" alt="IPV6 header">
 </p>
 
 ---
@@ -196,7 +196,7 @@ An **IP address** is a logical identifier for a device on a network.
 * These are sometimes referred to as a **dotted quad**
 * The range of each number can be from 0 to 255
 <p align="center">
-  <img src="images/04/0406ipaddress.jpg" alt="IP addresses">
+  <img src="img/04/0406ipaddress.jpg" alt="IP addresses">
 </p>
 
 &emsp;
@@ -207,7 +207,7 @@ Classful addressing aims to make address allocation scalable. To do this, addres
 * **Network number** – identifies the network
 * **Host number** – identifies the host
 <p align="center">
-  <img src="images/04/0407classfuladdresses.jpg" alt="Classful addresses">
+  <img src="img/04/0407classfuladdresses.jpg" alt="Classful addresses">
 </p>
 
 Additionally, there is multicast (formerly Class D) and Class E which is used for experimental purposes.
@@ -225,7 +225,7 @@ There are four IP address ranges reserved for private networks:
 * A **loopback address**, 127.0.0.1, allows a device to send and receive its own data packets 
 * None of these can be used to route data outside of a private network
 <p align="center">
-  <img src="images/04/0408privateaddresses.jpg" alt="Private addresses">
+  <img src="img/04/0408privateaddresses.jpg" alt="Private addresses">
 </p>
 
 While public addresses must be unique, private addresses can be reused. This saves millions of public IP addresses that would have to be otherwise be assigned.
@@ -243,7 +243,7 @@ The various network interfaces impose a limit on the maximum payload size that c
 * The payload is then reconstructed by the host
 * This is analogous to the segmentation and reassembly performed by TCP
 <p align="center">
-  <img src="images/04/0409transmissionunit.jpg" alt="MTU">
+  <img src="img/04/0409transmissionunit.jpg" alt="MTU">
 </p>
 
 &emsp;
@@ -287,5 +287,5 @@ The **IPv6 Neighbour Discovery** (ND) protocol provides address resolution, rout
 * NS is also used to ensure no other device in a network has the same IPv6 address
 * ICMPv6 redirect messages are used by routers for better next-hop selection
 <p align="center">
-  <img src="images/04/0410icmpneighbour.jpg" alt="Neighbour discovery">
+  <img src="img/04/0410icmpneighbour.jpg" alt="Neighbour discovery">
 </p>

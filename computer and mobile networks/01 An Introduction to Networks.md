@@ -72,12 +72,12 @@ At the basic level, networks have two types of design: physical and logical.
 * Intermediary devices which provide connectivity, eg switches, hubs, routers
 * Network media, meaning the channels over which data travels, eg Ethernet, wireless
 <p align="center">
-  <img src="images/01/0101physicaldesign.jpg" alt="Physical design">
+  <img src="img/01/0101physicaldesign.jpg" alt="Physical design">
 </p>
 
 Icons denoting devices are standardised, with Cisco icons being widely used in documentation:
 <p align="center">
-  <img src="images/01/0102ciscoicons.jpg" alt="Cisco icons">
+  <img src="img/01/0102ciscoicons.jpg" alt="Cisco icons">
 </p>
 
 &emsp;
@@ -109,7 +109,7 @@ Hosts can be further divided into two categories: **clients** and **servers**.
 * Splitters separate incoming domestic data and phone signals, whereas the DSLAM is able to perform this function for the telco
 * The maximum rate is limited by the distance between the home and the DSLAM, the gauge of the twisted pair line, and degree of electrical interference 
 <p align="center">
-  <img src="images/01/0103dsline.jpg" alt="DSL access">
+  <img src="img/01/0103dsline.jpg" alt="DSL access">
 </p>
 
 &emsp;
@@ -123,7 +123,7 @@ Hosts can be further divided into two categories: **clients** and **servers**.
 * At the cable head end, the **cable modem termination system** (CMTS) turns the analogue signal received from the cable modem back to digital 
 * This is a shared broadcast medium, meaning heavy upstream use will slow transfer rates for customers on a node, and heavy downstream use will slow rates for everyone
 <p align="center">
-  <img src="images/01/0104cableaccess.jpg" alt="Cable access">
+  <img src="img/01/0104cableaccess.jpg" alt="Cable access">
 </p>
 
 The most prevalent types of residential broadband access are digital subscriber line and cable.
@@ -143,7 +143,7 @@ The most prevalent types of residential broadband access are digital subscriber 
 * The user connects to the ONT and accesses the internet using a router not a modem
 * All packets sent from the OLT to the splitter are replicated 
 <p align="center">
-  <img src="images/01/0105ftthaccess.jpg" alt="FTTH access">
+  <img src="img/01/0105ftthaccess.jpg" alt="FTTH access">
 </p>
 
 &emsp;
@@ -159,7 +159,7 @@ Corporate, university and increasingly domestic settings, a **local area network
 * Ethernet uses a twisted pair copper wire to connect to an Ethernet switch
 * The switch is then connected to the wider internet through a router
 <p align="center">
-  <img src="images/01/0106lanaccess.jpg" alt="LAN access">
+  <img src="img/01/0106lanaccess.jpg" alt="LAN access">
 </p>
 
 **Wireless LAN** allows users to connect to an access point which is connected to a wired internet solution.
@@ -167,7 +167,7 @@ Corporate, university and increasingly domestic settings, a **local area network
 * Typically, a wireless user must be within a tens of meters of the access point
 * However, 3/4/5G and LTE allow users to be within tens of kilometres of access points
 <p align="center">
-  <img src="images/01/0107wlanaccess.jpg" alt="WLAN access">
+  <img src="img/01/0107wlanaccess.jpg" alt="WLAN access">
 </p>
 
 &emsp;
@@ -221,7 +221,7 @@ Message **encoding** involves converting information into an acceptable form of 
 * Data is changed from a human format to electrical signals as it moves across the network
 * Decoding is the reverse process, allowing the data to be viewed as intended
 <p align="center">
-  <img src="images/01/0108messageencoding.jpg" alt="Message Encoding">
+  <img src="img/01/0108messageencoding.jpg" alt="Message Encoding">
 </p>
 
 Messages sent can have a variety of delivery options:
@@ -249,7 +249,7 @@ The **Open System Interconnection** (OSI) model outlines standards for network p
 * Each layer provides a range of protocols to facilitate services to the layer above
 * The top layer is closest to the user and the bottom layer is closest to the electrical signals
 <p align="center">
-  <img src="images/01/0109osimodel.jpg" alt="OSI model">
+  <img src="img/01/0109osimodel.jpg" alt="OSI model">
 </p>
 
 The Transport layer takes the whole message as one large data packet.
@@ -270,7 +270,7 @@ The **Transmission Control Protocol/Internet Protocol** (TCP/IP) is similar to t
 * Internet layer exchanges packets between networks
 * Network Interface layer defines how to transfer packets between nodes
 <p align="center">
-  <img src="images/01/0110tcpip.jpg" alt="TCP IP">
+  <img src="img/01/0110tcpip.jpg" alt="TCP IP">
 </p>
 
 &emsp;
@@ -286,7 +286,7 @@ The general process of encapsulation is illustrated below:
 * At the receiving end, each header is removed as the packet is sent back up the stack 
 * Note that encapsulation does not occur at the physical layer as it is raw physical cabling
 <p align="center">
-  <img src="images/01/0111encapsulatedpackets.jpg" alt="Enscapsulation">
+  <img src="img/01/0111encapsulatedpackets.jpg" alt="Enscapsulation">
 </p>
 
 Packets that are sent a cross a network have a very particular structure regarding how the headers are arranged and what information they contain, as well as the size of the data they can hold.

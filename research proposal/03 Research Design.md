@@ -34,7 +34,7 @@
 
 The advantages and disadvantages of various research approaches were detailed in the **Research Methods** module:
 <p align="center">
-  <img src="images/03/0301methodologyapproaches.jpg" alt="Methodology approaches">
+  <img src="img/03/0301methodologyapproaches.jpg" alt="Methodology approaches">
 </p>
 
 Research methods can be classified according to their timeframe. Which to choose depends on the nature of the research and the intended outcome.
@@ -75,7 +75,7 @@ However, **hypotheses** are specific predictions about the possible outcomes of 
 
 Research is iterative and rarely neat, however the process can broadly be represented as:
 <p align="center">
-  <img src="images/03/0302researchprocess.jpg" alt="Research process">
+  <img src="img/03/0302researchprocess.jpg" alt="Research process">
 </p>
 
 A **research project** should start with a clearly defined research questions or hypothesis.
@@ -122,7 +122,7 @@ To aid in achieving construct clarity, **Facet Theory** can be employed. This is
 * However, a zoological classification would result in the duck and hen being together
 * Careful consideration of the topic and expected outcomes is therefore important
 <p align="center">
-  <img src="images/03/0303facettheory.jpg" alt="Facet theory">
+  <img src="img/03/0303facettheory.jpg" alt="Facet theory">
 </p>
 
 Facet Theory can be applied to research using the following phases: 
@@ -218,7 +218,7 @@ The timetable for submitting a proposal is constrained by the time it takes to g
 
 Taking time to create diagramatic schedule can help visualise the intended research steps:
 <p align="center">
-  <img src="images/03/0304gantchart.jpg" alt="Example Gant chart">
+  <img src="img/03/0304gantchart.jpg" alt="Example Gant chart">
 </p>
 
 &emsp;
@@ -229,14 +229,14 @@ The **control** phase involves managing and controlling five project elements: t
 * Similarly, cost is fixed due to being a student without research funding
 * This leaves **scope** as the main adjustable element 
 <p align="center">
-  <img src="images/03/0305projectelements.jpg" alt="Project elements">
+  <img src="img/03/0305projectelements.jpg" alt="Project elements">
 </p>
 
 **Time**, **scope**, and **quality** should be monitored closely to ensure tasks are completed according to the project plan and objectives.
 
 Project management involves making tradeoffs between elements as the project progresses. These are summarised below, with the exception of cost which is not within the control of the project:
 <p align="center">
-  <img src="images/03/0306tradeoffs.jpg" alt="Element tradeoffs">
+  <img src="img/03/0306tradeoffs.jpg" alt="Element tradeoffs">
 </p>
 
 The goal is to ensure the project is completed on time, with the best possible effort.
@@ -257,7 +257,7 @@ The final report needs to be written, conforming to the relevant standards. This
 
 Every project has risks. The research proposal will need a **risk log** included for the supervisor to review.
 <p align="center">
-  <img src="images/03/0307risklog.jpg" alt="Example risk log">
+  <img src="img/03/0307risklog.jpg" alt="Example risk log">
 </p>
 
 Risks are not stationary and so this log may need updating as the project progresses, as not all risks can be anticipated and some may escalate in importance.

@@ -81,7 +81,7 @@ The principles of confidentiality, integrity, and availability form the base of 
 
 **Bring Your Own Devices** (BYOD) is a relatively new and increasingly common policy. It allows employees to use their personal devices for work purposes.
 <p align="center">
-  <img src="images/07/0701byodpolicy.jpg" alt="BYOD policy">
+  <img src="img/07/0701byodpolicy.jpg" alt="BYOD policy">
 </p>
 
 BYOD may save money, as devices used for work do not have to be purchased. However, additional costs may be incurred by the need to train helpdesk staff and develop management systems. 
@@ -213,7 +213,7 @@ The are various asymmetric algorithms suitable for a variety of purposes. Some e
 
 A **Diffie-Hellman key exchange** establishes a shared secret between two parties that can be used for secret communication or exchanging data over a public network.
 <p align="center">
-  <img src="images/07/0702publicprivate.jpg" alt="Public and private keys">
+  <img src="img/07/0702publicprivate.jpg" alt="Public and private keys">
 </p>
 
 An example sequence can be illustrated using the principle of colour mixing:
@@ -274,7 +274,7 @@ Before data transport can take place over a secure SSL connection, a handshaking
 * The message authentication code (MAC) is calculated for the handshake information
 * Data exchange can now begin
 <p align="center">
-  <img src="images/07/0703handshakingprocedure.jpg" alt="Handshaking procedure">
+  <img src="img/07/0703handshakingprocedure.jpg" alt="Handshaking procedure">
 </p>
 
 SSL guards against replay attacks by using random nonces in the handshake.
@@ -299,7 +299,7 @@ Overlay tunnelling encapsulates IPv6 packets in IPv4 packets for delivery across
 * Additionally, it can carry non-IP traffic and can potentially support encryption
 * Tunnel interfaces on both ends must be in the same subnet
 <p align="center">
-  <img src="images/07/0704gretunnel.jpg" alt="GRE tunnel">
+  <img src="img/07/0704gretunnel.jpg" alt="GRE tunnel">
 </p>
 
 &emsp;

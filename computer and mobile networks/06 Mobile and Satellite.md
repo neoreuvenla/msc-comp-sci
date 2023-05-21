@@ -70,7 +70,7 @@ Whether the range of the IP protocols will cope of address the needs of changing
 
 Next generation applications will have strict resource requirements and networks will need to work closely with application requirements. If TCP/IP isn’t sufficient, new protocols may be needed for 5G and beyond. 
 <p align="center">
-  <img src="images/06/0601cellularstandards.jpg" alt="Cellular standards">
+  <img src="img/06/0601cellularstandards.jpg" alt="Cellular standards">
 </p>
 
 &emsp;
@@ -120,7 +120,7 @@ The full frequency spectrum has licensed and unlicensed sections.
 * More aerials are present in the base stations
 * The result in improved throughput
 <p align="center">
-  <img src="images/06/0602mimoradio.jpg" alt="MIMO radio link">
+  <img src="img/06/0602mimoradio.jpg" alt="MIMO radio link">
 </p>
 
 &emsp;
@@ -148,7 +148,7 @@ Common terminology includes:
 
 **Access points** (AP) are both bridges and a relay points and work in a star topology rather than mesh.
 <p align="center">
-  <img src="images/06/0603accesspoints.jpg" alt="Access points">
+  <img src="img/06/0603accesspoints.jpg" alt="Access points">
 </p>
 
 All 802.11 MAC frames fall under one of the three types: management, control, and data.

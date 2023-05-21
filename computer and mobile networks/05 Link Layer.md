@@ -120,7 +120,7 @@ One function of Ethernet is to encapsulate internet layer packets into PDUs call
 * **Frame check sequence** (FCS) – mathematical code for transmission error checking
 * If Ethernet detects damage to the frame, it drops it and relies on TCP for retransmission
 <p align="center">
-  <img src="images/05/0501framestructure.jpg" alt="Frame structure">
+  <img src="img/05/0501framestructure.jpg" alt="Frame structure">
 </p>
 
 &emsp;
@@ -160,7 +160,7 @@ Managed switches exist, but they operate at a higher level in the stack.
 
 Modern Ethernet LANs are typically laid out in **star** and **extended star** topologies using switches.
 <p align="center">
-  <img src="images/05/0502startopology.jpg" alt="Star topology">
+  <img src="img/05/0502startopology.jpg" alt="Star topology">
 </p>
 
 A switch is a datalink layer device that selectively forwards frames to one or more outgoing ports. 
@@ -175,7 +175,7 @@ Packets enter the switch on one port and can exit on a single or multiple port a
 
 Switches forward frames using the destination address to make switching decisions:
 <p align="center">
-  <img src="images/05/0503switchdecisions.jpg" alt="Switch decisions">
+  <img src="img/05/0503switchdecisions.jpg" alt="Switch decisions">
 </p>
 
 Switches **dynamically** add source MAC addresses to their MAC address tables. 
@@ -202,7 +202,7 @@ The diagram below shows PC1 sending the same information to three different PCs 
 * This is passed up the stack to IPv4 and ARP protocols in turn
 * However, this creates extra traffic on the network and impacts its speed
 <p align="center">
-  <img src="images/05/0504arpprotocol.jpg" alt="ARP">
+  <img src="img/05/0504arpprotocol.jpg" alt="ARP">
 </p>
 
 &emsp;
@@ -213,7 +213,7 @@ A **collision domain** is an area where collisions can occur within a network.
 * Switches separate collision domains but create additional broadcast domains
 * Routers separate collision and broadcast domains
 <p align="center">
-  <img src="images/05/0505collisiondomain.jpg" alt="Collision domain">
+  <img src="img/05/0505collisiondomain.jpg" alt="Collision domain">
 </p>
 
 
@@ -226,7 +226,7 @@ As a layer 1 device, **hubs** have no intelligence. When they receive one messag
 * They restart after a random number of milliseconds, according to the **Back-Off** algorithm
 * The above diagram has one broadcast and one collision domain
 <p align="center">
-  <img src="images/05/0506hubdevice.jpg" alt="Hubs">
+  <img src="img/05/0506hubdevice.jpg" alt="Hubs">
 </p>
 
 &emsp;
@@ -240,7 +240,7 @@ Using a **switch**, a layer 2 device, divides up the available bandwidth. It is 
 * Therefore, potential issues affecting network speed persist
 * The above diagram has one broadcast and eight collision domains
 <p align="center">
-  <img src="images/05/0507switchdevice.jpg" alt="Switches">
+  <img src="img/05/0507switchdevice.jpg" alt="Switches">
 </p>
 
 &emsp;
@@ -251,7 +251,7 @@ To overcome persisting issues regarding network speed, **routers** can be used. 
 * Therefore, broadcast within one network will not pass to the other
 * The above diagram has two broadcast domains and eight collision domains
 <p align="center">
-  <img src="images/05/0508routerdevice.jpg" alt="Routers">
+  <img src="img/05/0508routerdevice.jpg" alt="Routers">
 </p>
 
 &emsp;
@@ -303,7 +303,7 @@ All routing methods have some overheads in terms of processing and transmission.
 
 Routes are usually based on some kind of performance criteria, such as minimum hops or minimum cost.
 <p align="center">
-  <img src="images/05/0509routeillustration.jpg" alt="Route illustration">
+  <img src="img/05/0509routeillustration.jpg" alt="Route illustration">
 </p>
 
 &emsp;
@@ -337,7 +337,7 @@ CSMA/CD can be divided up into its various functions as follows:
 * **Multiple access** – multiple devices are prevented from sending simultaneously, as they are both able to listen for traffic, hear nothing, and attempt to send at the same time
 * **Collision detection** – after a device sends a packet, it listens to the network for collisions. If one occurs, the device waits and resends after a random period
 <p align="center">
-  <img src="images/05/0510csmacd.jpg" alt="CSMA/CD">
+  <img src="img/05/0510csmacd.jpg" alt="CSMA/CD">
 </p>
 
 As transmissions are terminated as soon as a collision is detected, time required before a retry can be attempted is shortened and overall performance is increased.
@@ -415,7 +415,7 @@ Firstly, **single bit errors** involve only one bit changing.
 * Thus, these are the least likely type in serial data transmission.
 * However, in parallel transmissions, just one noisy wire can corrupt a bit in the word
 <p align="center">
-  <img src="images/05/0511singleerrors.jpg" alt="Single bit errors">
+  <img src="img/05/0511singleerrors.jpg" alt="Single bit errors">
 </p>
 
 **Burst error** – this means two or more bits in the data unit have changed.
@@ -423,7 +423,7 @@ Firstly, **single bit errors** involve only one bit changing.
 * Some bits in between may not be corrupted but still fall within this window
 * Such errors are most likely to happen in serial transmission
 <p align="center">
-  <img src="images/05/0512bursterror.jpg" alt="Burst errors">
+  <img src="img/05/0512bursterror.jpg" alt="Burst errors">
 </p>
 
 &emsp;
@@ -445,7 +445,7 @@ At the receiving end, the **parity bit** calculated from the data bits and compa
 * Thus, the added parity bit may be a 0 or a 1 depending on the contents of the data unit
 * If there are two errors, these may cancel each other out and faulty data accepted
 <p align="center">
-  <img src="images/05/0513simpleparity.jpg" alt="Simple parity checks">
+  <img src="img/05/0513simpleparity.jpg" alt="Simple parity checks">
 </p>
 
 &emsp;
@@ -457,7 +457,7 @@ Performance can be improved using a **two-dimensional parity check**.
 * This method increases the chance of detecting burst errors
 * However, errors occurring in the exact same position in two units can undetectable
 <p align="center">
-  <img src="images/05/0514dimensionalparity.jpg" alt="Two-dimensional parity checks">
+  <img src="img/05/0514dimensionalparity.jpg" alt="Two-dimensional parity checks">
 </p>
 
 &emsp;
@@ -471,7 +471,7 @@ Performance can be improved using a **two-dimensional parity check**.
 * The receiver uses One’s complement to get the sum of the data, including the checksum
 * This is then complemented and if the result is 0 the data is accepted 
 <p align="center">
-  <img src="images/05/0515checksumerror.jpg" alt="Checksum errors">
+  <img src="img/05/0515checksumerror.jpg" alt="Checksum errors">
 </p>
 
 
@@ -489,7 +489,7 @@ Where checksum is based on addition, CRC is based on binary division.
 * This makes the data unit divisible by a second set number
 * The receiver divides the data unit by the same number, and if no remainder, it is accepted
 <p align="center">
-  <img src="images/05/0516cyclicredundancy.jpg" alt="Cyclic redundancy">
+  <img src="img/05/0516cyclicredundancy.jpg" alt="Cyclic redundancy">
 </p>
 
 CRC is a very effective detection technique and can detect:
@@ -519,5 +519,5 @@ The basic approach for error detection using Hamming code is as follows:
 * At the receiver end, recalculate the parity bits and compare them with the codeword
 * Discrepancy gives a decimal value, used to identify the position of the bit error
 <p align="center">
-  <img src="images/05/0517hammingcode.jpg" alt="Hamming code">
+  <img src="img/05/0517hammingcode.jpg" alt="Hamming code">
 </p>

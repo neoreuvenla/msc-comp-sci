@@ -66,12 +66,12 @@ Good projects are built on a **literature survey**, which consists of two primar
 * The **literature search** represents the mechanics of looking for, sorting, managing, and digesting the available research material
 * The **literature review** represents written understanding, critical evaluation, and conceptualisation of the research material
 <p align="center">
-  <img src="images/02/0201projectfoundation.jpg" alt="Project foundation">
+  <img src="img/02/0201projectfoundation.jpg" alt="Project foundation">
 </p>
 
 Performing this survey justifies that the project is worth doing, establishes wider context for the project, and helps future researchers understand how the project evolved.
 <p align="center">
-  <img src="images/02/0202projectcontext.jpg" alt="Project context">
+  <img src="img/02/0202projectcontext.jpg" alt="Project context">
 </p>
 
 It also helps establish the relevance of the topic by answering these questions:
@@ -96,7 +96,7 @@ The **literature survey** is made up of concurrent searches and reviews. It is:
 * An ongoing, iterative process
 * Constantly refined and redefined depending on material found
 <p align="center">
-  <img src="images/02/0203surveyprocess.jpg" alt="Literature survey process">
+  <img src="img/02/0203surveyprocess.jpg" alt="Literature survey process">
 </p>
 
 The process starts with the intended literature search being **defined**: identifying the boundaries of the search and the topics of interest.
@@ -210,17 +210,17 @@ Evaluating sources is a key part of critical reading. Factors to consider includ
 * Relevance of the content
 * Accuracy of the content
 <p align="center">
-  <img src="images/02/0204evaluationcriteria.jpg" alt="Evaluation criteria">
+  <img src="img/02/0204evaluationcriteria.jpg" alt="Evaluation criteria">
 </p>
 
 Questions that can aid a critical reading are presented below:
 <p align="center">
-  <img src="images/02/0205criticalreading.jpg" alt="Critical reading">
+  <img src="img/02/0205criticalreading.jpg" alt="Critical reading">
 </p>
 
 However, critical thinking should not be confused with general criticism: the former is about evaluation strength and validity of arguments, not finding fault in a derogatory way.
 <p align="center">
-  <img src="images/02/0206examplecriticism.jpg" alt="Example critcism">
+  <img src="img/02/0206examplecriticism.jpg" alt="Example critcism">
 </p>
 
 &emsp;
@@ -233,7 +233,7 @@ Several models exist to help read and review literature. The **SQ3R model** is o
 * Recite
 * Review
 <p align="center">
-  <img src="images/02/0207sq3rmethod.jpg" alt="Example critcism">
+  <img src="img/02/0207sq3rmethod.jpg" alt="Example critcism">
 </p>
 
 The first step is to **survey** the document by looking at the title, authors' names, abstract, table of contents, and headings.
@@ -274,10 +274,10 @@ The field should be presented as a series of inter-related subtopics, with refer
 
 The research field can provide a framework for the literature review, as illustrated below:
 <p align="center">
-  <img src="images/02/0208researchfield.jpg" alt="Research field">
+  <img src="img/02/0208researchfield.jpg" alt="Research field">
 </p>
 <p align="center">
-  <img src="images/02/0209literaturereview.jpg" alt="Literature review">
+  <img src="img/02/0209literaturereview.jpg" alt="Literature review">
 </p>
 
 Three common ways to present literature reviews are:
@@ -360,7 +360,7 @@ Making summary notes on the front pages of articles and using **post-it-notes** 
 
 **Reference management software** can help manage references, simplifying managing citations. Among other benefits, this allows references to be in the correct format from the beginning.
 <p align="center">
-  <img src="images/02/0210referencemanagement.jpg" alt="Reference management">
+  <img src="img/02/0210referencemanagement.jpg" alt="Reference management">
 </p>
 
 The university supports four reference management software: EndNote, Mendeley, Zotero, and Paperpile. It provides a [practical guide](https://subjectguides.york.ac.uk/reference-management) to using these.

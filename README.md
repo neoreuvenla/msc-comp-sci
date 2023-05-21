@@ -22,7 +22,7 @@ Concluding modules included Research Proposal and Independent Research Project.
 ## **Repository Contents**
 
 <p align="center">
-  <img src="computer and mobile networks/images/camn.png" alt="Computer and Mobile Networks">
+  <img src="computer and mobile networks/img/camn.png" alt="Computer and Mobile Networks">
 </p>
 
 - [**COM00147M Computer and Mobile Networks**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks)
@@ -41,12 +41,12 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
     
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/reading)
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
 
 <br>
 
 <p align="center">
-  <img src="research methods/images/researchmethods.png" alt="Research methods">
+  <img src="research methods/img/researchmethods.png" alt="Research methods">
 </p>
 
 - [**COM00146M Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods)
@@ -65,12 +65,12 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/07%20Evaluation.md)
     
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/reading)
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)
 
     <br>
 
 <p align="center">
-  <img src="research proposal/images/researchproposal.png" alt="Research proposal">
+  <img src="research proposal/img/researchproposal.png" alt="Research proposal">
 </p>
 
 - [**COM00150M Research Proposal**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)
@@ -79,4 +79,4 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [02 Literature Review](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/02%20Literature%20Review.md)
 
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/reading)
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)

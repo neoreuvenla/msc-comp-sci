@@ -108,7 +108,7 @@ Writing up the research is more than juts relaying what has been done. Readers m
 
 A representation of these steps is shown below, but in practice research is rarely this neat:
 <p align="center">
-  <img src="images/04/0401quantitativeprocess.jpg" alt="Quantitative flow chart">
+  <img src="img/04/0401quantitativeprocess.jpg" alt="Quantitative flow chart">
 </p>
 
 ---
@@ -246,12 +246,12 @@ Statistical test can be used in four ways. To test the significance of:
 * The strength of the relationship between variables
 * The predicted values between variables
 <p align="center">
-  <img src="images/04/0402statisticaltests.jpg" alt="Statistical tests">
+  <img src="img/04/0402statisticaltests.jpg" alt="Statistical tests">
 </p>
 
 A statistical test decision tree can help identify the type of data held and the corresponding options for analysis. One example is shown below, another can be found [here](http://www.peggykern.org/uploads/5/6/6/7/56678211/edu90790_decision_chart.pdf). 
 <p align="center">
-  <img src="images/04/0403decisiontree.jpg" alt="Statistical decision tree">
+  <img src="img/04/0403decisiontree.jpg" alt="Statistical decision tree">
 </p>
 
 &emsp;
@@ -278,7 +278,7 @@ Stylistically, they should be:
 * Greys are emotionally neutral and avoid subconscious messages of colours
 * Axes should be inconspicuous
 <p align="center">
-  <img src="images/04/0404graphstyle.jpg" alt="Graph example">
+  <img src="img/04/0404graphstyle.jpg" alt="Graph example">
 </p>
 
 Many commonly used graphing tools provide unnecessary features and care should be taken. 
@@ -298,7 +298,7 @@ The style should be:
 * Shades of grey can be used to distinguish lines, but not as well as styles of lines
 * Pictorial elements should be consistent, eg arrows should have the same meaning
 <p align="center">
-  <img src="images/04/0405diagramstyle.jpg" alt="Diagram example">
+  <img src="img/04/0405diagramstyle.jpg" alt="Diagram example">
 </p>
 
 Poor diagrams can detract from the clarity of the paper.
@@ -314,7 +314,7 @@ Well-designed tables should be:
 * Lines used to group items that belong together
 * Aligned logically, with values aligned on the decimal point
 <p align="center">
-  <img src="images/04/0406tablestyle.jpg" alt="Table example">
+  <img src="img/04/0406tablestyle.jpg" alt="Table example">
 </p>
 
 Generally, tables should not be used to show function values at different points, as graphs are more suited.
@@ -333,7 +333,7 @@ They should be styled to:
 * Placed below figures but above tables
 * Include a logical numbering system to facilitate referencing
 <p align="center">
-  <img src="images/04/0407captionstyle.jpg" alt="Caption example">
+  <img src="img/04/0407captionstyle.jpg" alt="Caption example">
 </p>
 
 It is important to introduce and discuss the accompanying figures and tables in the main text itself.

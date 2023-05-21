@@ -85,7 +85,7 @@ Topmost in both models are network applications and services that communicate wi
 * Some layer components are utilities that collect information about network configuration
 * Other components could include APIs, which provide services such as printing
 <p align="center">
-  <img src="images/02/0201applicationlayer.jpg" alt="Application layer">
+  <img src="img/02/0201applicationlayer.jpg" alt="Application layer">
 </p>
 
 &emsp;
@@ -99,7 +99,7 @@ The **TCP/IP** implementation demonstrates not all OSI layers are required, as i
 * The OSI Session layer manages messages between applications on networked devices
 * This also involves security and name recognition
 <p align="center">
-  <img src="images/02/0202tcpipmodel.jpg" alt="TCP/IP model">
+  <img src="img/02/0202tcpipmodel.jpg" alt="TCP/IP model">
 </p>
 
 &emsp;
@@ -121,7 +121,7 @@ The **client-server model** involves an end user (client) and processes performe
 * Single server hosts are often incapable of keeping up with requests from many clients
 * Thus, data centres housing many hosts are used to produce powerful virtual servers
 <p align="center">
-  <img src="images/02/0203clientserver.jpg" alt="Client-server">
+  <img src="img/02/0203clientserver.jpg" alt="Client-server">
 </p>
 
 &emsp;
@@ -136,7 +136,7 @@ The **client-server model** involves an end user (client) and processes performe
 * This model is highly scalable, with peers generating workload and service capacity 
 * However, it is hard to implement and maintain due to intermittent peer availability
 <p align="center">
-  <img src="images/02/0204peerpeer.jpg" alt="Peer to peer">
+  <img src="img/02/0204peerpeer.jpg" alt="Peer to peer">
 </p>
 
 P2P applications face challenges of security, performance, and reliability due to their **decentralised** nature.
@@ -206,7 +206,7 @@ An example of communication using sockets is illustrated below:
 * This is known as the PCA source socket address
 * When received by B, a response is directed to the socket indicated
 <p align="center">
-  <img src="images/02/0205socketcommunication.jpg" alt="Socket communication">
+  <img src="img/02/0205socketcommunication.jpg" alt="Socket communication">
 </p>
 
 &emsp;
@@ -273,7 +273,7 @@ The following diagram shows the activity of UDP communication over a connectionl
 * Sent data may be received out of order or potentially lost
 * There is no **security** or **checking mechanisms**
 <p align="center">
-  <img src="images/02/0206udpcommunication.jpg" alt="UDP communication">
+  <img src="img/02/0206udpcommunication.jpg" alt="UDP communication">
 </p>
 
 UDP may be useful for applications such as gaming, which need quick transfers with little need for security.
@@ -291,7 +291,7 @@ UDP may be useful for applications such as gaming, which need quick transfers wi
 
 Electronic mail Is a good example of there being more than one protocol for a communication problem.
 <p align="center">
-  <img src="images/02/0207emailprotocol.jpg" alt="Email protocols">
+  <img src="img/02/0207emailprotocol.jpg" alt="Email protocols">
 </p>
 
 &emsp;
@@ -352,7 +352,7 @@ Increasingly, users are accessing email through their web browsers, and thus **H
 
 **Multipurpose Internet Mail Extensions** (MIME) is used to identify the content of mail messages so that the correct encoding and decoding can be applied.
 <p align="center">
-  <img src="images/02/0208mimetype.jpg" alt="MIME types">
+  <img src="img/02/0208mimetype.jpg" alt="MIME types">
 </p>
 
 &emsp;
@@ -391,7 +391,7 @@ Resources intended to be accessible by HTTP need to be uniquely identified:
 
 **Round trip time** (RTT) describes the tie taken for a small packet to travel from client to server and then back to the client. It includes packet propagation delays, packet queuing delays, and packet processing delays.
 <p align="center">
-  <img src="images/02/0209roundtrip.jpg" alt="Round trip time">
+  <img src="img/02/0209roundtrip.jpg" alt="Round trip time">
 </p>
 
 Such connections have disadvantages:
@@ -410,7 +410,7 @@ The difference between persistent and non-persistent connections is illustrated 
 * For example, entire web pages or multiple webpages can be sent 
 * Requesting these objects back-to-back without waiting for replies is a form of **pipelining**
 <p align="center">
-  <img src="images/02/0210persistentconnections.jpg" alt="Persistent connections">
+  <img src="img/02/0210persistentconnections.jpg" alt="Persistent connections">
 </p>
 
 &emsp;
@@ -422,14 +422,14 @@ The first line of a **request** is called the request line. Subsequent lines are
 * The request line has three fields: method field, URL field, and HTTP version field
 * The close header line indicates a persistent or non-persistent connection
 <p align="center">
-  <img src="images/02/0211requestlines.jpg" alt="Request lines">
+  <img src="img/02/0211requestlines.jpg" alt="Request lines">
 </p>
 
 The **response** from the server may or may not contain the page requests.
 
 It has three sections: an initial status line, six header lines, and then the entity body.
 <p align="center">
-  <img src="images/02/0212responselines.jpg" alt="Response lines">
+  <img src="img/02/0212responselines.jpg" alt="Response lines">
 </p>
 
 Various status codes may be sent depending on the actions taken
@@ -457,7 +457,7 @@ The DNS is a **distributed database** implemented in a **hierarchy of DNS server
 * However, each server is responsible for keeping their parts up to date
 * There are three classes of DNS server: **root**, **top level domain** (TLD), and **authoritative** 
 <p align="center">
-  <img src="images/02/0213dnshierarchy.jpg" alt="DNS hierachy">
+  <img src="img/02/0213dnshierarchy.jpg" alt="DNS hierachy">
 </p>
 
 &emsp;

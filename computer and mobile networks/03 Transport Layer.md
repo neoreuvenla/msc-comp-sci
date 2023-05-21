@@ -79,7 +79,7 @@ There are multiple transport layer protocols, each one implementing the followin
 
 The focus will be on the two internet protocols, **Transmission Control Protocol** (TCP) and **User Datagram Protocol** (UDP) as examples of the different level of service provided at the transport layer.
 <p align="center">
-  <img src="images/03/0301tcpudp.jpg" alt="TCP and UDP">
+  <img src="img/03/0301tcpudp.jpg" alt="TCP and UDP">
 </p>
 
 &emsp;
@@ -179,7 +179,7 @@ The UDP header contains:
 * **Checksum** – used for error checking, optional in IPv4 but mandatory in IPv6
 * Note that the actual destination address (IP address) is added at the network layer.
 <p align="center">
-  <img src="images/03/0302udpheader.jpg" alt="UDP header">
+  <img src="img/03/0302udpheader.jpg" alt="UDP header">
 </p>
 
 One of the actions performed by the transport layer is to divide the application layer into chunks so there is a fixed size to the amount of data in each UDP segment.
@@ -201,7 +201,7 @@ At a transmitting device, the data-encapsulation method works as follows:
 * Hardware addresses are used to uniquely identify hosts on the network
 * Frames are converted to bits and a digital clocking scheme is used
 <p align="center">
-  <img src="images/03/0303dataencapsulation.jpg" alt="Data encapsulation">
+  <img src="img/03/0303dataencapsulation.jpg" alt="Data encapsulation">
 </p>
 
 ---
@@ -225,7 +225,7 @@ At a transmitting device, the data-encapsulation method works as follows:
 
 Reliability is provided by adding services on top of IP, which does not guarantee delivery as it is connectionless.
 <p align="center">
-  <img src="images/03/0304tcpreliability.jpg" alt="TCP reliability">
+  <img src="img/03/0304tcpreliability.jpg" alt="TCP reliability">
 </p>
 
 Features of the protocol include:
@@ -248,7 +248,7 @@ The TCP header contains:
 * This is used to allow the sender to perceive the communication from the receiver’s side
 * Positive (ACK) and negative (NAK) acknowledgements indicate receipt of segments 
 <p align="center">
-  <img src="images/03/0305tcpheader.jpg" alt="TCP header">
+  <img src="img/03/0305tcpheader.jpg" alt="TCP header">
 </p>
 
 TCP uses a timeout retransmit mechanism to recover lost segments.
@@ -283,7 +283,7 @@ A connection-orientated transport interface must follow 5 principles:
 * The **Transport Protocol Data Unit** (TPDU) sends messages between transport entities
 * These are contained in packets for exchanging with the network layer. 
 <p align="center">
-  <img src="images/03/0306networkprimitives.jpg" alt="Network primitives">
+  <img src="img/03/0306networkprimitives.jpg" alt="Network primitives">
 </p>
 
 TPDU packets are then contained in frames for sending. 
@@ -294,7 +294,7 @@ TPDU packets are then contained in frames for sending.
 
 Execution of the protocol is shown below, where the left is the server and right is the client:
 <p align="center">
-  <img src="images/03/0307tdpupackets.jpg" alt="TDPU packets">
+  <img src="img/03/0307tdpupackets.jpg" alt="TDPU packets">
 </p>
 
 When a connection is no longer needed, it must be released to free up table space within the entities.
@@ -314,7 +314,7 @@ If the server process is running, the client can initiate a TCP connection as fo
 * The server transfers this connection to a new socket for the specific client
 * This handshake takes place at the transport layer and is transparent to the programs
 <p align="center">
-  <img src="images/03/0308tcphandshake.jpg" alt="TCP handshake">
+  <img src="img/03/0308tcphandshake.jpg" alt="TCP handshake">
 </p>
 
 **Unicast** communication, as above, is point to point and is used in equipment monitoring and alarms.
@@ -328,7 +328,7 @@ If the server process is running, the client can initiate a TCP connection as fo
 * It allows a sender to transmit multiple packets without an acknowledgement.
 * However, it is not allowed more than a set number, N, of unacknowledged packets
 <p align="center">
-  <img src="images/03/0309gobackn.jpg" alt="Go back N">
+  <img src="img/03/0309gobackn.jpg" alt="Go back N">
 </p>
 
 The receiver will only accept segments arriving in order, discarding out of order segments. It will always return an acknowledgement containing the sequence number of the last segment received.
