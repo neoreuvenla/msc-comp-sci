@@ -22,7 +22,19 @@ Concluding modules included Research Proposal and Independent Research Project.
 ## **Repository Contents**
 
 <p align="center">
-  <img src="computer and mobile networks/img/camn.png" alt="Computer and Mobile Networks">
+  <img src="readme/img/softwareengineering.png" alt="Software Engineering">
+</p>
+
+- [**COM00144M Software Engineering**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
+
+    * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/01%20Software%20Development%20Process.md)
+    
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
+
+<br>
+
+<p align="center">
+  <img src="readme/img/camn.png" alt="Computer and Mobile Networks">
 </p>
 
 - [**COM00147M Computer and Mobile Networks**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks)
@@ -46,7 +58,7 @@ Concluding modules included Research Proposal and Independent Research Project.
 <br>
 
 <p align="center">
-  <img src="research methods/img/researchmethods.png" alt="Research methods">
+  <img src="readme/img/researchmethods.png" alt="Research methods">
 </p>
 
 - [**COM00146M Research Methods**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods)
@@ -70,7 +82,7 @@ Concluding modules included Research Proposal and Independent Research Project.
     <br>
 
 <p align="center">
-  <img src="research proposal/img/researchproposal.png" alt="Research proposal">
+  <img src="readme/img/researchproposal.png" alt="Research proposal">
 </p>
 
 - [**COM00150M Research Proposal**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)
