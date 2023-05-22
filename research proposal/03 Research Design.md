@@ -3,7 +3,38 @@
 
 ## **3.0 Table of Contents**
 
-- 
+- [**3.0 Table of Contents**](#30-table-of-contents)
+- [**3.1 Learning Objectives**](#31-learning-objectives)
+- [**3.2 Summary**](#32-summary)
+- [**3.3 Revisiting Research Methods**](#33-revisiting-research-methods)
+  * [**3.3.0 Reading**](#330-reading)
+  * [**3.3.1 Methodologies and Methods**](#331-methodologies-and-methods)
+  * [**3.3.2 Research Design, Questions, and Hypotheses**](#332-research-design-questions-and-hypotheses)
+    + [**Purpose of Research Design**](#purpose-of-research-design)
+    + [**Research Questions and Hypotheses**](#research-questions-and-hypotheses)
+    + [**Role in the Research Process**](#role-in-the-research-process)
+- [**3.4 Constructs and Clarity**](#34-constructs-and-clarity)
+  * [**3.4.0 Reading**](#340-reading)
+  * [**3.4.1 Defining Constructs**](#341-defining-constructs)
+  * [**3.4.2 Facet Theory**](#342-facet-theory)
+- [**3.5 Making a Contribution**](#35-making-a-contribution)
+  * [**3.5.0 Reading**](#350-reading)
+  * [**3.5.1 Understanding Contribution**](#351-understanding-contribution)
+    + [**Types of Contribution**](#types-of-contribution)
+- [**3.6 The Independent Research Project**](#36-the-independent-research-project)
+  * [**3.6.0 Reading**](#360-reading)
+  * [**3.6.1 Balancing Requirements**](#361-balancing-requirements)
+  * [**3.6.2 Independent Research Project (IRP) Outline**](#362-independent-research-project-irp-outline)
+    + [**IRP Definition and Planning Phases**](#irp-definition-and-planning-phases)
+    + [**IRP Control Phase**](#irp-control-phase)
+    + [**IRP Closure Phase**](#irp-closure-phase)
+  * [**3.6.3 Project Risks**](#363-project-risks)
+- [**3.7 Insight into Project Methodologies**](#37-insight-into-project-methodologies)
+  * [**3.7.0 Reading**](#370-reading)
+  * [**3.7.1 Traditional and Iterative Methodologies**](#371-traditional-and-iterative-methodologies)
+    + [**Traditional Approaches**](#traditional-approaches)
+    + [**Iterative Approaches**](#iterative-approaches)
+    + [**Choosing an Approach**](#choosing-an-approach)
 
 ---
 &emsp;
@@ -17,8 +48,11 @@
 ---
 &emsp;
 ## **3.2 Summary**
+A good research project will have interesting research questions or hypotheses, be well designed, communicate clear constructs to the reader, and make a contribution to a field of knowledge.
 
+The Independent Research Project (IRP) requires consideration as to what is possible, practical, and required. Throughout the project, five elements need to be managed: time, scope, quality, resources, and cost.
 
+Depending on the project, traditional, agile, or hybrid project methodologies may be employed.
 
 ---
 &emsp;
@@ -94,11 +128,9 @@ Both questions and hypotheses should be directly linked to the context of the st
 ## **3.4 Constructs and Clarity**
 
 ### **3.4.0 Reading**
-* *Required: Chapter 7, Projects In Computing And Information Systems: A Student's Guide, Dawson*
-* *Required: Chapters 1-6, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
 * *Required: [Toward Principles of Construct Clarity: Exploring the
 Usefulness of Facet Theory in Guiding Conceptualization](https://www.researchgate.net/publication/294108825_Toward_Principles_of_Construct_Clarity_Exploring_the_Usefulness_of_Facet_Theory_in_Guiding_Conceptualization), Zhang et al*
-* *Extension: Chapters 7, 8, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Extension: none*
 
 &emsp;
 ### **3.4.1 Defining Constructs**
@@ -140,8 +172,8 @@ Facet Theory can be applied to research using the following phases:
 
 ### **3.5.0 Reading**
 * *Required: Chapter 2, Projects In Computing And Information Systems: A Student's Guide, Dawson*
-* *Required: Chapters 3-5, Writing For Computer Science, Zobel*
-* *Extension: Chapter 5, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+* *Required: Chapters 3, 5, Writing For Computer Science, Zobel*
+* *Extension: none*
 
 &emsp;
 ### **3.5.1 Understanding Contribution**
@@ -172,7 +204,8 @@ The significance of a contribution could be measured by its impact or the amount
 ## **3.6 The Independent Research Project**
 
 ### **3.6.0 Reading**
-* *Required: Chapters 3, 4, 7, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Required: Chapters 3-4, 7, 8, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Chapters 1-6, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
 * *Extension: none*
 
 &emsp;
@@ -199,11 +232,11 @@ It is important to understand the role of a **supervisor** in the project: they 
 The **Independent Research Project** (IRP) is a module wherein the student will produce an individual piece of research under the guidance of a supervisor.
 
 The Research Proposal (RP) module is 8 weeks and the Independent Resarch Project is 16: a total of 24 weeeks working on the project. This is divided into 5 phases:
-* Phase 1 - definition *(RP)*
-* Phase 2 - planning *(RP)*
-* Phase 3 - initiation *(IRP)*
-* Phase 4 - control *(IRP)*
-* Phase 5 - closure *(IRP)*
+* Phase 1 - **definition** *(RP)*
+* Phase 2 - **planning** *(RP)*
+* Phase 3 - **initiation** *(IRP)*
+* Phase 4 - **control** *(IRP)*
+* Phase 5 - **closure** *(IRP)*
 
 Within each phase there may be multiple activities, such as research design, literature reviewing, data collection, writing drafts etc.
 
@@ -277,4 +310,48 @@ The risk management process can be illustrated as four stages:
 * *Extension: none*
 
 &emsp;
-### **3.7.2 Traditional and Iterative Methodologies**
+### **3.7.1 Traditional and Iterative Methodologies**
+
+Project methodologies are primarily covered during the IRP, but they can provide helpful insights as to how to plan a project.
+
+Generally, projects run in a sequential order. However, both **traditional** and **agile** methodologies are suitable in Computer Science for projects that involve software development, possibly even a hybrid of the two.
+
+&emsp;
+#### **Traditional Approaches:**
+
+Conventional **waterfall** type models follow a sequential, one directional flow of stages. These are:
+* Less flexible
+* Don't typically respond well to change
+* Suitable for projects with well understood and unchanging requirements
+<p align="center">
+  <img src="img/03/0308waterfallapproach.jpg" alt="Waterfall approach">
+</p>
+
+**Incremental** development involves breaking projects into smaller pieces with smaller aims.
+* This results in releasing an operational product each increment
+* Additionally, feedback and can be incorporated into the process
+<p align="center">
+  <img src="img/03/0309incrementalapproach.jpg" alt="Incremental approach">
+</p>
+
+&emsp;
+#### **Iterative Approaches:**
+
+**Prototyping** is an iterative refinement of a product, circling a final version.
+* It is appropriate when there is uncertainty in the requirements
+* Additionally, it can help avoid *spaghetti code* by ensuring logcial structures at the start
+<p align="center">
+  <img src="img/03/0310prototypeapproach.jpg" alt="Prototype approach">
+</p>
+
+**Agile** methods emphasis quick, iterative development cycles.
+* Values continuous delivery, flexibility, and regular communication
+* This is ideal for projects with unclear or changing requirements
+
+&emsp;
+#### **Choosing an Approach:**
+
+Ultimately, choice depends on the nature of the project, risks involved, time frame, and resources available. Generally:
+* Waterfall approaches are suitable for projects with unchanging requirements
+* Incremental approaches are good for projects with sub-deliverables
+* Prototyping approaches are useful for proof of concept situations

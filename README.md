@@ -91,4 +91,6 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [02 Literature Review](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/02%20Literature%20Review.md)
 
+    * [03 Research Design](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/03%20Research%20Design.md)
+
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
