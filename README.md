@@ -3,7 +3,7 @@
 
 <br><br>
 
-<img src="https://media.licdn.com/dms/image/C4E0BAQHN-tZE9f_fkg/company-logo_200_200/0/1519856050172?e=1690416000&v=beta&t=cdqdwl95sEb7JcpFVjgHUc6cH6-OI3ZA8doIiDLlIGY" alt="UoY Logo" />
+<img src="readme/img/uoy.jpg" alt="UoY Logo" />
 
 <br>
 
