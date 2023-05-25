@@ -28,32 +28,10 @@ Concluding modules included Research Proposal and Independent Research Project.
 - [**COM00144M Software Engineering**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
 
     * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/01%20Software%20Development%20Process.md)
+
+    * [02 Requirement Capture and Use Case Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/02%20Requirements%20and%20Modelling.md)
     
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
-
-<br>
-
-<p align="center">
-  <img src="readme/img/camn.png" alt="Computer and Mobile Networks">
-</p>
-
-- [**COM00147M Computer and Mobile Networks**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks)
-
-    * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/01%20An%20Introduction%20to%20Networks.md)
-    
-    * [02 Application Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/02%20Application%20Layer.md)
-    
-    * [03 Transport Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/03%20Transport%20Layer.md)
-    
-    * [04 Network Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/04%20Network%20Layer.md)
-    
-    * [05 Link Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/05%20Link%20Layer.md)
-    
-    * [06 Mobile and Satellite](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/06%20Mobile%20and%20Satellite.md)
-    
-    * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
-    
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
 
 <br>
 
@@ -80,6 +58,32 @@ Concluding modules included Research Proposal and Independent Research Project.
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)
 
     <br>
+
+<br>
+
+<p align="center">
+  <img src="readme/img/camn.png" alt="Computer and Mobile Networks">
+</p>
+
+- [**COM00147M Computer and Mobile Networks**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks)
+
+    * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/01%20An%20Introduction%20to%20Networks.md)
+    
+    * [02 Application Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/02%20Application%20Layer.md)
+    
+    * [03 Transport Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/03%20Transport%20Layer.md)
+    
+    * [04 Network Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/04%20Network%20Layer.md)
+    
+    * [05 Link Layer](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/05%20Link%20Layer.md)
+    
+    * [06 Mobile and Satellite](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/06%20Mobile%20and%20Satellite.md)
+    
+    * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
+    
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
+
+<br>
 
 <p align="center">
   <img src="readme/img/researchproposal.png" alt="Research proposal">
