@@ -318,6 +318,5 @@ A separate **list of requirements** should be kept, listing both functional and 
 
 The requirement list and case model inform the development of the **initial system architecture**:
 <p align="center">
-  <img src="img/02/0210initialarchitecture.jpg" alt="Initial architecture>
+  <img src="img/02/0210initialarchitecture.jpg" alt="Initial architecture">
 </p>
- ss
