@@ -1,5 +1,5 @@
 #### COM00150M Research Proposal
-# **Week 4 - Draft: Methodology, Sources, and Data**
+# **Week 4 - Methodology, Sources, and Data**
 
 ## **4.0 Table of Contents**
 

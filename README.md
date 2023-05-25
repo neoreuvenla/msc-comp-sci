@@ -103,6 +103,8 @@ Concluding modules included Research Proposal and Independent Research Project.
 
     * [03 Research Design](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/03%20Research%20Design.md)
 
+    * [04 Methodology, Sources, and Data](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/04%20Methodology%20Sources%20and%20Data.md)
+
     * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)*
 
     * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
