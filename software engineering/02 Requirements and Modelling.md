@@ -320,4 +320,4 @@ The requirement list and case model inform the development of the **initial syst
 <p align="center">
   <img src="img/02/0210initialarchitecture.jpg" alt="Initial architecture>
 </p>
- 
+ ss
