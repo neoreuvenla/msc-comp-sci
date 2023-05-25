@@ -3,7 +3,21 @@
 
 ## **7.0 Table of Contents**
 
-  * [**7.0 Table of Contents**](#70-table-of-contents)
+- [**7.0 Table of Contents**](#70-table-of-contents)
+- [**7.1 Learning Objectives**](#71-learning-objectives)
+- [**7.2 Summary**](#72-summary)
+- [**7.3 Validity And Ethics**](#73-validity-and-ethics)
+  * [**7.3.0 Reading**](#730-reading)
+  * [**7.3.1 Validity**](#731-validity)
+  * [**7.3.2 Ethics**](#732-ethics)
+    + [**Ethics In Practice:**](#ethics-in-practice)
+    + [**Ethical Considerations In Research:**](#ethical-considerations-in-research)
+- [**7.4 Evaluation In Research**](#74-evaluation-in-research)
+  * [**7.4.0 Reading**](#740-reading)
+  * [**7.4.1 Evaluation Theory**](#741-evaluation-theory)
+  * [**7.4.2 An Evaluation Framework**](#742-an-evaluation-framework)
+  * [**7.4.3 Reflexivity**](#743-reflexivity)
+  * [**7.4.4 Personal Reflection**](#744-personal-reflection)
 
 ---
 &emsp;
@@ -136,14 +150,6 @@ Researchers make **subjective** decisions about what is to be extracted from dat
 Therefore, it is important to ensure the process is done with consideration and documentation of the perspectives and positions of those involved.
 
 Acknowledging the relationship between researcher and data can provide quality and accuracy in the analysis.
-
-&emsp;
-### **7.4.2 Evaluating Good Practice**
-
-
-&emsp;
-### **7.4.3 Evaluating Bad Practice**
-
 
 &emsp;
 ### **7.4.4 Personal Reflection**
