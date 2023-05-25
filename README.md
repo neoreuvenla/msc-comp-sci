@@ -31,7 +31,9 @@ Concluding modules included Research Proposal and Independent Research Project.
 
     * [02 Requirement Capture and Use Case Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/02%20Requirements%20and%20Modelling.md)
     
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
+    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)*
+
+    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/summative)*
 
 <br>
 
@@ -55,7 +57,9 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/07%20Evaluation.md)
     
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)
+    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)*
+
+    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/summative)*
 
     <br>
 
@@ -81,7 +85,9 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
     
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
+    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)*
+
+    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/summative)*
 
 <br>
 
@@ -97,4 +103,6 @@ Concluding modules included Research Proposal and Independent Research Project.
 
     * [03 Research Design](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/03%20Research%20Design.md)
 
-    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
+    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)*
+
+    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
