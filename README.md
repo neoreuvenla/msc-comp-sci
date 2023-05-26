@@ -13,9 +13,11 @@
 
 A repository to hold lecture and activity notes from the University of York MSc Computer Science course. 
 
-Carousel modules included Algorithms and Data Structures, Advanced Programming, Artificial Intelligence and Machine Learning, Big Data Analytics, Computer and Mobile Networks, Computer Architecture and Operating Systems, Cyber Security Threats, Research Methods, Software Engineering.
+Carousel modules included **Algorithms and Data Structures**, **Advanced Programming**, **Artificial Intelligence and Machine Learning**, **Big Data Analytics**, **Computer and Mobile Networks**, **Computer Architecture and Operating Systems**, **Cyber Security Threats**, **Research Methods**, **Software Engineering**.
 
-Concluding modules included Research Proposal and Independent Research Project.
+Concluding modules included **Research Proposal** and **Independent Research Project**.
+
+Note that, in order to preserve academic integrity, information relating to summative assessments is *encrypted*.
 
 <br>
 
@@ -30,10 +32,12 @@ Concluding modules included Research Proposal and Independent Research Project.
     * [01 An Introduction to Networks](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/01%20Software%20Development%20Process.md)
 
     * [02 Requirement Capture and Use Case Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/02%20Requirements%20and%20Modelling.md)
-    
-    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)*
 
-    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/summative)*
+    * [03 Requirement Analysis and Interaction Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/03%20Requirements%20Analysis%20and%20Interaction%20Modelling.md)
+    
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
+
+    * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/summative)*
 
 <br>
 
@@ -57,9 +61,9 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Evaluation](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20methods/07%20Evaluation.md)
     
-    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)*
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/pdf)
 
-    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/summative)*
+    * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/summative)*
 
     <br>
 
@@ -85,9 +89,9 @@ Concluding modules included Research Proposal and Independent Research Project.
     
     * [07 Security and Cryptography](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20and%20mobile%20networks/07%20Security%20and%20Cryptography.md)
     
-    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)*
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
 
-    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/summative)*
+    * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/summative)*
 
 <br>
 
@@ -105,6 +109,6 @@ Concluding modules included Research Proposal and Independent Research Project.
 
     * [04 Methodology, Sources, and Data](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/04%20Methodology%20Sources%20and%20Data.md)
 
-    * *[08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)*
+    * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
 
-    * *[09 Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
+    * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
