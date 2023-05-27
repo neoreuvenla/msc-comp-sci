@@ -34,6 +34,8 @@ Note that, in order to preserve academic integrity, information relating to summ
     * [02 Requirement Capture and Use Case Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/02%20Requirements%20and%20Modelling.md)
 
     * [03 Requirement Analysis and Interaction Modelling](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/03%20Requirement%20Analysis%20and%20Interaction%20Modelling.md)
+
+    * [04 Operation Specification and State Machines](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/04%20Operation%20Specification%20and%20State%20Machines.md)
     
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
 
