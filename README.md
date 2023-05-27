@@ -17,7 +17,7 @@ Carousel modules included **Algorithms and Data Structures**, **Advanced Program
 
 Concluding modules included **Research Proposal** and **Independent Research Project**.
 
-Note that, in order to preserve academic integrity, information relating to summative assessments is *encrypted*.
+Note that, in order to preserve academic integrity, information relating to summative assessments is uploaded in an *encrypted* format.
 
 <br>
 
