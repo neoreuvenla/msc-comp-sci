@@ -51,7 +51,8 @@ These concepts are essential in both **quantitative** and **qualitative** resear
 <p align="center">
   <img src="img/04/0401validitymeasure.jpg" alt="Measuring validity">
 </p>
-* This involves the application of correct procedures to find answers to the research question
+
+This involves the application of correct procedures to find answers to the research question.
 * In **quantitative** research, the validity of results may depend on various aspects, such as demonstrating efforts to establish the validity of the instrument used
 * In **qualitative** research, validity is harder to attain due to subjective data. It refers to the checking the accuracy of a finding and providing arguments for the approach
 
@@ -99,7 +100,7 @@ Verifiability is a fundemental principle in scientifict research and is cruical 
 
 Three examples of quantiative methodology are explored: experimental design, non-experimental design, and longitudinal designs.
 <p align="center">
-  <img src="img/04/0403quantitativemethods.jpg" alt="Quantitative methods>
+  <img src="img/04/0403quantitativemethods.jpg" alt="Quantitative methods">
 </p>
 
 &emsp;
@@ -137,7 +138,7 @@ Three examples of quantiative methodology are explored: experimental design, non
 
 Five examples of quantiative methodology are explored: narrative research, phenomenology, grounded theory, ethnographics, and case studies.
 <p align="center">
-  <img src="img/04/0404qualitativemethods.jpg" alt="Qualitative methods>
+  <img src="img/04/0404qualitativemethods.jpg" alt="Qualitative methods">
 </p>
 
 &emsp;
@@ -195,7 +196,7 @@ Five examples of quantiative methodology are explored: narrative research, pheno
 
 Four examples of quantiative methodology are explored: convergent, explanatory sequential, exploratory sequential, and complex designs.
 <p align="center">
-  <img src="img/04/0405mixedmethods.jpg" alt="Mixed methods>
+  <img src="img/04/0405mixedmethods.jpg" alt="Mixed methods">
 </p>
 
 &emsp;
@@ -250,6 +251,9 @@ Four examples of quantiative methodology are explored: convergent, explanatory s
 ### **4.4.1 Collecting Qualitative Data**
 
 **Qualitative methods**, including interviews, focus groups, content analysis, and case studies, aim for depth and detail. These generally involve talking to people and recording what they have to say.
+<p align="center">
+  <img src="img/04/0405qualitativemethods.jpg" alt="Qualitative data collection">
+</p>
 
 &emsp;
 #### **Interviews, Focus Groups, and Workshops:**
@@ -260,7 +264,7 @@ Four examples of quantiative methodology are explored: convergent, explanatory s
 
 **Focus groups and workshops** are essentially group interviews and are common in marketing research.
 * The key difference with interviews is **participant interaction**
-* The unit of analysis is therefore likely to be both the **individual** and the **group** 
+* The unit of analysis is therefore both the **individual** and the **group** 
 
 &emsp;
 #### **Content Analysis:**
@@ -269,41 +273,158 @@ Four examples of quantiative methodology are explored: convergent, explanatory s
 * The goal is to identify the words anc concepts that **convey** the content of the text
 * Content is a broad term, and can reflect the author, culture, and time period
 * Analysis can be conducted manually or through computer assistance
-* Steps could include identifying word occurrence rate, composite words, association between words, and the use of typical or peculiar words
+* Steps could include identifying word occurrence rate, composite words, association between words, and peculiar words
 
 &emsp;
 #### **Case Studies:**
 
-**Case studies** are used to explore a limited but relevant set of events, scenarios, assumptions, or conditions.
-* Different types include **explorative**, **explicative** and **descriptive**
+**Case studies** are used to clarify or explore a limited but relevant set of events, scenarios, assumptions, or conditions.
+* This can be to investigate, extend, or enforce what is known 
+* **Explorative** studies tend to be a precursor to more detailed research analysis
+* **Explicative** studies tend to be used in random-based research using randomised samples
+* **Descriptive** studies require the development of a theory to act as a framework
+* Further examples of case studies include **intrinsic**, **instrumental** and **collective** studies
 
 &emsp;
 ### **4.4.2 Collecting Quantitative Data**
 
-**Quantitative methods**, such as statistics, experiments, and surveys, provide numerical data for statistical analysis
+**Quantitative methods**, such as statistics, experiments, and surveys, provide numerical data for statistical analysis.
+<p align="center">
+  <img src="img/04/0406quantitativemethods.jpg" alt="Quantitative data collection">
+</p>
 
 &emsp;
 #### **Statistics:**
 
 **Statistics** involves the collection, analysis, and elaboration of data.
-* The aim is to identifies rules or patterns that regulate the behaviour of the data
-* This requires the definition of one or more reference variable
-* Obviously, this involves the statistical analysis of collected data
+* Quantitative research in many fields will rely on effective statistical analysis
+* Analysis starts with the collection of large amounts of validated and verified data
+* Following software facilitated analysis, **statistical significance** tests may be performed
+* The goal is determine variable influence and test relationships
 
 &emsp;
 #### **Experiments:**
 
-**Experiments** involves three main areas: **participants**, **procedures**, and **measures**.
-* Details about **sample size** and **characteristics** required
-* Procedures for recruiting and grouping subjects need to be described clearly
-* Identification and manipulation of variables is required
-* Measures of outcomes are collected for use in data analysis
+**Experiments** can be illustrated across three main areas: **participants**, **procedures**, and **measures**.
+* The size and characteristics of the sample and the recruitment process must be indicated
+* The research must also detail the variables involved and their manipulation methods
+* Outcome measures and data analysis should be clearly reported for replication
 
 &emsp;
 #### **Surveys:**
 
 **Surveys** are an observational research method based on asking questions.
-* They are complementary to **systematic experimental observations**
-* Effective surveys require clear understanding of the doman, thoughtful design, and planning of questions
-* Typical stages include: problem definition, drafting of inquiring items, pondering objectives, variables and questions, review and final form of the survey.
+* They can be complementary to **systematic experimental observations**
+* Effective surveys require understanding of the doman and thoughtful design
+* Typical stages include: problem definition, drafting of inquiry items, pondering objectives, variables, and questions, and a final reviewimage.png
 * Once collected, data can be processed using **statistical programs**
+
+---
+&emsp;
+## **4.5 Different Types of Data**
+
+### **4.50 Reading**
+* *Required: Chapter 7, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Required: Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+* *Required: [Data Collection, Primary vs Secondary](https://sci-hub.se/10.1016/b0-12-369398-5/00041-4), Hox and Boeije*
+* *Required: [Content Analysis](https://www.researchgate.net/publication/333756046_Content_analysis), Mihailescu*
+* *Extension: Chapters 8, 10, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
+
+&emsp;
+### **4.5.1 Primary and Secondary Data Summary**
+
+**Primary data** is collected by researchers specifically for their research purposes.
+* Its collection method is decided by the researcher
+* Similarly, the data is tailored to answer the researcher's specific research question
+
+**Secondary data** is collected by someone other than the researcher, often for different purposes.
+* This data is often applicable to new research contexts
+* However, it may require additional investigation into the methods of the original collection
+
+Secondary data is not inferior or less robust than primary research: it is a good method when the object of research is **remote** or otherwise **inaccessible**.
+
+&emsp;
+### **4.5.2 Issues with Secondary Data**
+
+While the data collection methods covered previously resulted in primary data, secondary data can also be used in research projects. However, it is important to be aware of the potential **issues** surrounding its use.
+<p align="center">
+  <img src="img/04/0407secondarydata.jpg" alt="Secondary data">
+</p>
+
+&emsp;
+#### **Common Issues:**
+
+Secondary data may require additional information to evaluate its **quality** and **relevancy**. It may even be necessary to contact the original research team for further details regarding the methods and procedures used.
+* These choices may impact the reusability of the data in new contexts
+* Therefore, secondary researchers must ensure that the data is suitable for their research 
+
+The **format** the data is in may require additional processing to be usable.
+* Text could be available in the formats used for specific packages, such as SPSS or SAS
+* Usually data is organised as a rectangular data matrix or in hierarchical or relational data structures
+
+Similarly, secondary data has often been **cleaned** by the primary researcher based on their assumptions and interpretations.
+* Any changes or recoding of raw data by the primary researcher should be acknowledged
+* If the original data is available, the secondary researcher may conduct their own data cleaning
+* Alternatively, a secondary round of data cleaning may be performed on the altered data set
+
+**Qualitative data** is often overlooked as a source of secondary data, as concerns exist regarding **methodological**, **practical**, and **ethical** issues.
+* There is a loss of meaning when contextual factors like tone, voice, and gestures are removed
+* Related ethical issues involve the preservation of confidentiality and obtaining consent for reuse
+
+&emsp;
+#### **Privacy and Confidentiality:**
+
+In order to preserve confidentiality, secondary data sets are sometimes **altered**.
+* This could be through the addition of random numbers from a specific **statistical distribution**
+* It is important to determine whether this is the case prior to using the data
+* If it has been used, it should be clearly acknowledged by the secondary researcher
+
+&emsp;
+#### **Educational Use:**
+
+In circumstances where the secondary data is too incomplete to be used, it may still be useful for teaching purposes.
+* Certain data archives and organizations provide data specifically for teaching purposes, 
+* These are often used as example or practice data for students
+
+&emsp;
+### **4.5.3 Content Analysis**
+
+One of the main forms of secondary data are **documents**, which may include books, articles, reports, and datasets.
+
+As assessing academic texts has been covered during lessons on the literature review, the focus here will be on evaluating and critiquing non-academic sources. 
+
+&emsp;
+#### **Content Analysis Overview:**
+
+**Content analysis** is a pragmatic research method that quantitatively and qualitatively analyses data in a objective, systematic manner.
+
+It has evolved from older media, such as print and broadcast, to encompass modern forms, such as social media platforms and websites.
+
+As the major limitation lies in the time consuming nature of data collection and interpretation, using 
+
+&emsp;
+#### **Source Criticism:**
+
+Once data is available, the process begins with **source criticism**: evaluating the validity and reliability of the source. 
+* It is important to determine the source's credibility, bias, and intention
+* This step is particularly important due to the variety and vastness of data sources available
+
+All texts have biases and these may lead to biases in the research if not identified. Therefore, critical assessment is needed to ensure the accuracy of any subsequent interpretation.
+
+Questions that can help in this stage include:
+<p align="center">
+  <img src="img/04/0408sourcecriticism.jpg" alt="Source criticism">
+</p>
+
+&emsp;
+#### **Interpretation:**
+
+Thorough source criticism facilitates **interpretation** of the source: what is says and how that relates to the research project.
+
+There are two ways of reading a text, illustrated metaphorically:
+* **With the grain** - interpret the text as the author intended. This includes what they say, why they are saying, and what they mean
+* **Against the grain** - interpreting the text in ways not intended by the author, but which may reveal something interesting
+
+This can also be referred to as the **witting** and **unwitting testimony** of the text, but it is important to emphasise this does not imply the author intended to hide information.
+
+Interpreting data is helped by comprehensive understanding of the context and nature of the data at hand. 
