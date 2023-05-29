@@ -3,7 +3,55 @@
 
 ## **4.0 Table of Contents**
 
-- 
+- [**4.0 Table of Contents**](#40-table-of-contents)
+- [**4.1 Learning Objectives**](#41-learning-objectives)
+- [**4.2 Summary**](#42-summary)
+- [**4.3 Validity, Reliability, and Verifiability**](#43-validity-reliability-and-verifiability)
+  * [**4.3.0 Reading**](#430-reading)
+  * [**4.3.1 Importance of Validity, Reliability, and Verifiability**](#431-importance-of-validity-reliability-and-verifiability)
+    + [**Validity**](#validity)
+    + [**Reliability**](#reliability)
+    + [**Verifiability**](#verifiability)
+  * [**4.3.2 Quantitative Research**](#432-quantitative-research)
+    + [**Experimental Design**](#experimental-design)
+    + [**Non-Experimental Design**](#non-experimental-design)
+    + [**Longitudinal Design**](#longitudinal-design)
+  * [**4.3.3 Qualitative Research**](#433-qualitative-research)
+    + [**Narrative Research**](#narrative-research)
+    + [**Phenomenology**](#phenomenology)
+    + [**Grounded Theory**](#grounded-theory)
+    + [**Ethnographics**](#ethnographics)
+    + [**Case Study**](#case-study)
+  * [**4.3.4 Mixed Methods Research**](#434-mixed-methods-research)
+    + [**Convergent**](#convergent)
+    + [**Explanatory Sequential**](#explanatory-sequential)
+    + [**Exploratory Sequential**](#exploratory-sequential)
+    + [**Complex Designs**](#complex-designs)
+- [**4.4 Exploring Data Collection Methods**](#44-exploring-data-collection-methods)
+  * [**4.4.0 Reading**](#440-reading)
+  * [**4.4.1 Collecting Qualitative Data**](#441-collecting-qualitative-data)
+    + [**Interviews, Focus Groups, and Workshops**](#interviews-focus-groups-and-workshops)
+    + [**Content Analysis**](#content-analysis)
+    + [**Case Studies**](#case-studies)
+  * [**4.4.2 Collecting Quantitative Data**](#442-collecting-quantitative-data)
+    + [**Statistics**](#statistics)
+    + [**Experiments**](#experiments)
+    + [**Surveys**](#surveys)
+- [**4.5 Different Types of Data**](#45-different-types-of-data)
+  * [**4.5.0 Reading**](#450-reading)
+  * [**4.5.1 Primary and Secondary Data Summary**](#451-primary-and-secondary-data-summary)
+  * [**4.5.2 Issues with Secondary Data**](#452-issues-with-secondary-data)
+    + [**Common Issues**](#common-issues)
+    + [**Privacy and Confidentiality**](#privacy-and-confidentiality)
+    + [**Educational Use**](#educational-use)
+  * [**4.5.3 Content Analysis**](#453-content-analysis)
+    + [**Source Criticism**](#source-criticism)
+    + [**Interpretation**](#interpretation)
+    + [**Future of Content Analysis**](#future-of-content-analysis)
+  * [**4.5.4 Data Availability**](#454-data-availability)
+- [**4.6 Expected and Unexpected Data**](#46-expected-and-unexpected-data)
+  * [**4.6.0 Reading**](#460-reading)
+  * [**4.6.1 Handling Unexpected Data**](#461-handling-unexpected-data)
 
 ---
 &emsp;
@@ -19,10 +67,11 @@
 &emsp;
 ## **4.2 Summary**
 
+Good research design requires understanding the distinction between primary and secondary data, along with the potential issues surrounding secondary data usage. Similarly, it is important to appreciate the need for validity, reliability, and verifiability in research, as these elements enhance the credibility of findings. 
 
+Content analysis is a valuable approach for interpreting important sources of secondary data, such as documents, online text, and images.
 
-
-
+It is necessary to prepare early for data availability issues, posssibly by forming contingency plans. Pilot studies can help validate the research process ahead of employing it on a larger scale. Any changes to the research design in light of unexpected data should be handled systematically.
 
 ---
 &emsp;
@@ -192,7 +241,7 @@ Five examples of quantiative methodology are explored: narrative research, pheno
 * Ethical considerations include **privacy**, **informed consent**, and potential for **harm** to individuals or groups
 
 &emsp;
-### **4.3.3 Mixed Methods Research**
+### **4.3.4 Mixed Methods Research**
 
 Four examples of quantiative methodology are explored: convergent, explanatory sequential, exploratory sequential, and complex designs.
 <p align="center">
@@ -323,7 +372,7 @@ Four examples of quantiative methodology are explored: convergent, explanatory s
 &emsp;
 ## **4.5 Different Types of Data**
 
-### **4.50 Reading**
+### **4.5.0 Reading**
 * *Required: Chapter 7, Projects In Computing And Information Systems: A Student's Guide, Dawson*
 * *Required: Chapter 9, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
 * *Required: [Data Collection, Primary vs Secondary](https://sci-hub.se/10.1016/b0-12-369398-5/00041-4), Hox and Boeije*
@@ -389,18 +438,19 @@ In circumstances where the secondary data is too incomplete to be used, it may s
 &emsp;
 ### **4.5.3 Content Analysis**
 
-One of the main forms of secondary data are **documents**, which may include books, articles, reports, and datasets.
+One of the main forms of secondary data are **documents**, which may include books, articles, and reports.
+* **Content analysis** refers to the systematic evaluation of texts, images, videos etc 
+* It involves examining and categorising the content derive insights or draw conclusions
+* **Document analysis** focuses on the examination and interpretation of written documents
+* It involves scrutiny of textual information, including themes, patterns, and biases
+* Therefore, document analysis is a specific form of content analysis focusing on text
+* Similarly, content analysis is a form of document analysis with a broader range of sources
 
-As assessing academic texts has been covered during lessons on the literature review, the focus here will be on evaluating and critiquing non-academic sources. 
+As assessing academic texts has been covered during lessons on the literature review, the focus here will be on evaluating and critiquing non-academic textual sources. 
 
-&emsp;
-#### **Content Analysis Overview:**
+Such analysis has evolved from solely using older media, such as print and broadcast, to encompassing modern forms, such as **social media platforms** and **websites**.
 
-**Content analysis** is a pragmatic research method that quantitatively and qualitatively analyses data in a objective, systematic manner.
-
-It has evolved from older media, such as print and broadcast, to encompass modern forms, such as social media platforms and websites.
-
-As the major limitation lies in the time consuming nature of data collection and interpretation, using 
+As the major limitation lies in the **time consuming** nature of data collection and interpretation.
 
 &emsp;
 #### **Source Criticism:**
@@ -428,3 +478,48 @@ There are two ways of reading a text, illustrated metaphorically:
 This can also be referred to as the **witting** and **unwitting testimony** of the text, but it is important to emphasise this does not imply the author intended to hide information.
 
 Interpreting data is helped by comprehensive understanding of the context and nature of the data at hand. 
+
+&emsp;
+#### **Future of Content Analysis:**
+
+Content analysis is becoming increasingly important in the era of wide spread internet use.
+* User generated content on social media raises concerns about information reliability 
+* It is necessary for everyone to form a fact based and balanced view of current affairs
+* A culture of fact checking can contribute to self regulation for content creators
+
+&emsp;
+### **4.5.4 Data Availability**
+
+Data can be **primary**, **secondary**, or a a **mixture** of both. Similarly, it can be **quantitative** or **qualitative**.
+
+**Availability** is a persistent problem with student projects and could take the form of texts being unavailable, lack of volunteers, or poor questionnaire responses.
+* This can often be traced back to the early stages of the project
+* Potential problems should be identified early in the **project initiation**
+* **Contingency plans** should also be made so that a project isn't reliant on one set of data
+* If no options are available, the project will require potentially large scale adjustment 
+<p align="center">
+  <img src="img/04/0409dataavailability.jpg" alt="Data availability">
+</p>
+
+Therefore, it is important to **identify** and **collect** data as early as possible to avoid any unforseen issues. This also allows further data to be collected, such as more questionnaires or adding more questions.
+
+If collected data is not as expected, it can still be valuable to discuss the reason for the difference and learn from it.
+
+---
+&emsp;
+## **4.6 Expected and Unexpected Data**
+
+### **4.6.0 Reading**
+* *Required: Chapters 14, 21, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
+* *Extension: Chapters 15-20, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
+
+&emsp;
+### **4.6.1 Handling Unexpected Data**
+
+Once the data has been collected and is as **expected**, it needs to be **analysed** and **interpreted**. This process will differ according to the needs of the research question and the type of data being handled. 
+
+However, it may be realised that data is not as expected either before or after processing. This is acceptable, as it can still be written about as part of the project.
+
+There may be a possibility to alter the research design to address any factors leading to the **unexpected data** and start again. Any changes would mean the original data set should not be used for analysis, as the approach must be **systematic** throughout.
+
+It may be worth planning to carry out a small scale **pilot study** to test the proposed methods before using them on a larger scale.
