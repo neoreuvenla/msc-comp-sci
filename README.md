@@ -23,6 +23,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 
 ## **Repository Contents**
 
+<br>
+
 <p align="center">
   <img src="readme/img/softwareengineering.png" alt="Software Engineering">
 </p>
@@ -49,6 +51,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 
 <br>
 
+<br>
+
 <p align="center">
   <img src="readme/img/caos.png" alt="Computer Architecture and Operating Systems">
 </p>
@@ -56,6 +60,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 - [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
 
     * [01 Placeholder](https://)
+
+<br>
 
 <br>
 
@@ -83,7 +89,7 @@ Note that, in order to preserve academic integrity, information relating to summ
 
     * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20methods/summative)*
 
-    <br>
+<br>
 
 <br>
 
@@ -110,6 +116,8 @@ Note that, in order to preserve academic integrity, information relating to summ
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/pdf)
 
     * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20and%20mobile%20networks/summative)*
+
+<br>
 
 <br>
 
