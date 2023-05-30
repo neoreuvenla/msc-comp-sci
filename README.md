@@ -50,6 +50,16 @@ Note that, in order to preserve academic integrity, information relating to summ
 <br>
 
 <p align="center">
+  <img src="readme/img/caos.png" alt="Computer Architecture and Operating Systems">
+</p>
+
+- [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
+
+    * [01 ](https://)
+
+<br>
+
+<p align="center">
   <img src="readme/img/researchmethods.png" alt="Research methods">
 </p>
 
