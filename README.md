@@ -40,6 +40,8 @@ Note that, in order to preserve academic integrity, information relating to summ
     * [05 Software Design and Design Patterns](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/05%20Software%20Design%20and%20Design%20Patterns.md)
 
     * [06 Software Testing and Refactoring](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/06%20Software%20Testing%20and%20Refactoring.md)
+
+    * [07 Quality and Configuration Management](https://github.com/neoreuvenla/msc-comp-sci/blob/main/software%20engineering/07%20Quality%20and%20Configuration%20Management.md)
     
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering/pdf)
 
