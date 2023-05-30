@@ -55,7 +55,7 @@ Note that, in order to preserve academic integrity, information relating to summ
 
 - [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
 
-    * [01 ](https://)
+    * [01 Placeholder](https://)
 
 <br>
 
