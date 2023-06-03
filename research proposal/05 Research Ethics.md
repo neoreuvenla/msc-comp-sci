@@ -230,12 +230,9 @@ In many cases this is achieved through treating data in a purely statistical man
 ## **5.5 Ethical Implications of Your Study**
 
 ### **5.5.0 Reading**
-* *Required: [Research Integrity and Ethics](https://www.york.ac.uk/staff/research/governance/research-integrity-and-ethics/), University of York*
-* *Required: [Departmental Guidance on the Participant Information Sheet and Informed Consent](https://docs.google.com/document/d/1Z29mLFQ1nEZsA-ouHb5zbHljq1-w9-oSjE5Y_VBEhEc/edit), University of York*
-* *Required: [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/), British Computer Society*
-* *Required: [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics), Association for Computing Machinery*
+* *Required: none*
 * *Extension: none*
 
 &emsp;
-### **5.5.1 University Research Integrity**
+### **5.5.1 aff**
 
