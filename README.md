@@ -135,6 +135,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 
     * [04 Methodology, Sources, and Data](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/04%20Methodology%20Sources%20and%20Data.md)
 
+    * [05 Research Ethics](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/05%20Research%20Ethics.md)
+
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
 
     * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
