@@ -3,7 +3,36 @@
 
 ## **5.0 Table of Contents**
 
-- 
+- [**5.0 Table of Contents**](#50-table-of-contents)
+- [**5.1 Learning Objectives**](#51-learning-objectives)
+- [**5.2 Summary**](#52-summary)
+- [**5.3 Stakeholders and Ethical Practice**](#53-stakeholders-and-ethical-practice)
+  * [**5.3.0 Reading**](#530-reading)
+  * [**5.3.1 Types of Stakeholders**](#531-types-of-stakeholders)
+    + [**Supervisors:**](#supervisors)
+    + [**Clients and Users:**](#clients-and-users)
+    + [**Funders:**](#funders)
+    + [**Examiners:**](#examiners)
+    + [**Evaluators:**](#evaluators)
+  * [**5.3.2 Identifying Stakeholders and Their Influence**](#532-identifying-stakeholders-and-their-influence)
+  * [**5.3.3 Ethical Practice**](#533-ethical-practice)
+    + [**Methodology and Methods:**](#methodology-and-methods)
+    + [**Ethical Implication:**](#ethical-implication)
+    + [**Data Gathering and Data Analysis:**](#data-gathering-and-data-analysis)
+    + [**Ethical Writing:**](#ethical-writing)
+- [**5.4 University Ethics Framework**](#54-university-ethics-framework)
+  * [**5.4.0 Reading**](#540-reading)
+  * [**5.4.1 University Research Integrity**](#541-university-research-integrity)
+    + [**Key Policies:**](#key-policies)
+  * [**5.4.2 Ethics at Department Level**](#542-ethics-at-department-level)
+    + [**Principle of Do No Harm:**](#principle-of-do-no-harm)
+    + [**Principle of Informed Consent:**](#principle-of-informed-consent)
+    + [**Principle of Data Confidentiality:**](#principle-of-data-confidentiality)
+- [**5.5 Ethical Implications of Your Study**](#55-ethical-implications-of-your-study)
+  * [**5.5.0 Reading**](#550-reading)
+  * [**5.5.1 Seeking Ethical Approval**](#551-seeking-ethical-approval)
+    + [**Submission Points:**](#submission-points)
+  * [**5.5.2 Ethics Review Process**](#552-ethics-review-process)
 
 ---
 &emsp;
@@ -18,8 +47,11 @@
 &emsp;
 ## **5.2 Summary**
 
+Stakeholders in research range from direct to indirect contributors, with varying levels of influence and interest. They must be identified and their influence assessed.
 
+In conducting research, the university principles of no harm, informed consent, and data confidentiality are paramount. Respect for these principles ensures physical safety, legal adherence, and protects individual rights and interests. The university requires ethical clearance for all research, insisting on accountability, integrity, and transparency. 
 
+The ethics review process has three stages and includes reflection on elements such as data handling and risk identification. Project approval comes only after successful ethics review and supervisor sign-off.
 
 ---
 &emsp;
@@ -230,9 +262,51 @@ In many cases this is achieved through treating data in a purely statistical man
 ## **5.5 Ethical Implications of Your Study**
 
 ### **5.5.0 Reading**
-* *Required: none*
-* *Extension: none*
+* *Required: Chapter 3, Projects In Computing And Information Systems: A Student's Guide, Dawson*
+* *Chapters 12, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
+* *Extension: Chapter 4, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Creswell and Creswell*
 
 &emsp;
-### **5.5.1 aff**
+### **5.5.1 Seeking Ethical Approval**
 
+Project approval is given by the **departmental ethics committee** upon reviewing the submitted ethics form. The **Physical Sciences Ethics Committee** will be consulted for complex ethical issues.
+
+It is common for students to overlook the **ethical implications** of their projects. The university ethics form seeks to address this by focusing on:
+* Accountability
+* Integrity 
+* Principles
+* Values
+
+This form must be completed by anyone conducting research at the university. It includes:
+* A detailed **overview** of the project
+* Any identified **ethical issues** and potential **risks**
+* The handling of **data**, including informed consent, secure storage, and data removal
+
+University documents relating to [Ethics Guidance](https://docs.google.com/document/d/1MH5Trd4SUL2osaSh_W5D8t82NifDE6q6eSi1a4OaqTU/edit?usp=sharing) and [Data Gathering](https://docs.google.com/document/d/1emsG5AXmfUJQi5HnRdtx1QvF1wMNXVJ__BPYKY50hzo/edit?usp=sharing) are available online.
+
+Data collection through **web scraping** raises ethical concerns. Other data sources or public APIs should be used where possible.
+
+&emsp;
+#### **Submission Points:**
+
+MSc Online students have two submission points for ethics:
+* A fast track ethics **online quiz**
+* A final **ethics form** with the Research Proposal module summative assessment
+
+Decisions are made by the committee a few weeks following submission. This may require **changes** and a **resubmission** to be made.
+
+Using the appropriate submission points, including detail, and addressing all issues and risks will help avoid unnecessary delays.
+
+&emsp;
+### **5.5.2 Ethics Review Process**
+
+The **ethics review process** has three stages, designed to identify projects that require additional documentation or review as early as possible.
+* Ethic reviews are specific to the project
+* A new review is needed following any change that may affect an ethical factor
+<p align="center">
+  <img src="img/05/0503reviewprocess.jpg" alt="review process">
+</p>
+
+Note that the project is not formally approved until the **IRP Project Supervisor** signs it off at the start of the **IRP module**. 
+* This is true even no issues have been identified in the project
+* **Data collection** may not begin until the project has been approved
