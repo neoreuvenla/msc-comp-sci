@@ -139,6 +139,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 
     * [06 Writing A Research Proposal](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/06%20Writing%20A%20Research%20Proposal.md)
 
+    * [07 Finalising A Research Proposal](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/07%20Finalising%20A%20Research%20Proposal.md)
+
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
 
     * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
