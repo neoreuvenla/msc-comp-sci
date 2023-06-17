@@ -59,7 +59,9 @@ Note that, in order to preserve academic integrity, information relating to summ
 
 - [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
 
-    * [01 Placeholder](https://)
+    * [01 Fundamentals of Computer Architecture](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20architecture%20and%20operating%20systems/01%20Fundamentals%20of%20Computer%20Architecture.md)
+
+    * [02 Memory and Systems](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20architecture%20and%20operating%20systems/02%20Memory%20and%20Systems.md)
 
 <br>
 
