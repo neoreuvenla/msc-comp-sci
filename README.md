@@ -57,7 +57,7 @@ Note that, in order to preserve academic integrity, information relating to summ
   <img src="readme/img/caos.png" alt="Computer Architecture and Operating Systems">
 </p>
 
-- [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/software%20engineering)
+- [**COM00145M Computer Architecture and Operating Systems**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/computer%20architecture%20and%20operating%20systems)
 
     * [01 Fundamentals of Computer Architecture](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20architecture%20and%20operating%20systems/01%20Fundamentals%20of%20Computer%20Architecture.md)
 
