@@ -146,3 +146,13 @@ Note that, in order to preserve academic integrity, information relating to summ
     * [08 Reading PDFs](https://github.com/neoreuvenla/msc-comp-sci/blob/main/research%20proposal/pdf)
 
     * *[09 Encrypted Summatives](https://github.com/neoreuvenla/msc-comp-sci/tree/main/research%20proposal)*
+
+<br>
+
+<br>
+
+<p align="center">
+  <img src="readme/img/irp.png" alt="Independent Research Project">
+</p>
+
+- [**Independent Research Project**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/independent%20research%20project)
