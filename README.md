@@ -155,4 +155,4 @@ Note that, in order to preserve academic integrity, information relating to summ
   <img src="readme/img/irp.png" alt="Independent Research Project">
 </p>
 
-- [**Independent Research Project**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/independent%20research%20project)
+- [**COM00151M Independent Research Project**]()
