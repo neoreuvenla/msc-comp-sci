@@ -3,7 +3,36 @@
 
 ## **1.0 Table of Contents**
 
-- 
+- [**1.0 Table of Contents**](#10-table-of-contents)
+- [**1.1 Learning Objectives**](#11-learning-objectives)
+- [**1.2 Summary**](#12-summary)
+- [**1.3 Aims of the Independent Research Project**](#13-aims-of-the-independent-research-project)
+  * [**1.3.0 Reading**](#130-reading)
+  * [**1.3.1 The Independent Research Project**](#131-the-independent-research-project)
+    + [**Essential Information**](#essential-information)
+- [**1.4 Phase 1 - Literature, Ethics, and Supervision**](#14-phase-1-literature-ethics-and-supervision)
+  * [**1.4.0 Reading**](#140-reading)
+  * [**1.4.1 Research Proposal**](#141-research-proposal)
+  * [**1.4.2 Literature Review**](#142-literature-review)
+    + [**Refining the Review**](#refining-the-review)
+  * [**1.4.3 Ethics Approval**](#143-ethics-approval)
+    + [**Completing the Ethics Form**](#completing-the-ethics-form)
+  * [**1.4.4 IRP Supervisor**](#144-irp-supervisor)
+    + [**Contact**](#contact)
+    + [**Expectations**](#expectations)
+- [**1.5 Later Phases of the IRP**](#15-later-phases-of-the-irp)
+  * [**1.5.0 Reading**](#150-reading)
+  * [**1.5.1 Phase 2 - Initiation**](#151-phase-2-initiation)
+  * [**1.5.2 Phase 3 - Control**](#152-phase-3-control)
+  * [**1.5.3 Phase 4 - Closure**](#153-phase-4-closure)
+- [**1.6 Advice and Support**](#16-advice-and-support)
+  * [**1.6.0 Reading**](#160-reading)
+  * [**1.6.1 Communication**](#161-communication)
+  * [**1.6.2 Resources, Management, and Organisation**](#162-resources-management-and-organisation)
+    + [**Time Management**](#time-management)
+    + [**Module Support**](#module-support)
+  * [**1.6.3 Academic Integrity**](#163-academic-integrity)
+    + [**Turnitin**](#turnitin)
 
 ---
 &emsp;
@@ -18,7 +47,11 @@
 &emsp;
 ## **1.2 Summary**
 
- 
+An Independent Research Project (IRP) at the master's level comprises four structured phases including initiation, control, and closure, managed by the student under the supervision of a faculty member. 
+
+The student's responsibilities encompass project planning, conducting research, and organisation, while the supervisor provides advice and reviews progress. 
+
+Key success factors for the project include effective communication, time management, resource utilisation, and maintaining academic integrity by avoiding plagiarism, with tools like Turnitin available to verify originality.
 
 ---
 &emsp;
@@ -91,23 +124,39 @@ As explained in the RP module, the **research proposal** should include:
 ### **1.4.2 Literature Review**
 
 The **literature review** should be an account of what other people have done in this field before. It includes:
-* A literature review 
-* Accounts of other people's research
+* A description of relevant literature 
+* A review of previously published findings
 * Historical information necessary to place the investigation in context
 
 Good literature reviews organise the material into **themes** and draw out the main points on which previous writers agree or disagree.
 
-It is more than a series of **mini book reviews** or a **chronological account** of what was done and when. Rather, it should lay the **foundation** for the study by identifying significant issues arising from previous work.
+It is more than a a **chronological account** of what was done and when. Rather, it should lay the **foundation** for the study by identifying significant issues arising from previous work.
+* It **should not** be a summary of who has written what
+* It **should** be a commentary on different authors and their work
 
 The **conclusion** of the review should summarise the findings and explain how they informed the development of the study's research question.
 
+Correct and consistent **referencing** demonstrates academic integrity. Note that an over reliance on **direct quotations** should be avoided.
+
 &emsp;
 #### **Refining the Review:**
-************************************
-As a recap: 
-* **Research Methods** (RM) - covered reviewing the literature in relation to identifying the research topic and included a brief overview of the types of literature available, how and where to find good sources of literature and critically review these in relation to the chosen field of study. 
 
-The Research Proposal module provided in-depth information on the role of the literature review in the research process with guidance on how to access, read and review different types of literature and how to write up a literature review. You will have put these skills to good use when writing your research proposal. 
+As a recap: 
+* **Research Methods** (RM) - covered literature types, source evaluation, and critical review
+* **Research Proposal** (RP) - covered the role of the review,  and how to write it up
+
+A good literature review is defined by the presence of **critical evaluation**:
+* Weighing arguments from **multiple perspectives**
+* Evaluating held **ideas** and those of others
+* Considering **strengths** and **weaknesses** of arguments
+* Identifying **gaps** and **limitations** in existing literature
+
+There are specific chapters in the core texts useful for reference when writing the literature review:
+* *Chapter 5, Projects in Computing and Information Systems: A Student's Guide, Dawson*
+* *Chapter 9, Dissertations and Project Reports: A Step by Step Guide, Cottrell*
+* *Chapter 5, Succeeding With Your Master's Dissertation, Biggam*
+* *Chapter 2, Research Design, Qualitative, Quantitative and Mixed Methods Approaches, Cresswell and Cresswell*
+* *Chapter 3, Writing for Computer Science, Zobel*
 
 &emsp;
 ### **1.4.3 Ethics Approval**
@@ -186,3 +235,147 @@ The expectation of the student centres around the **planning**, **conduct**, and
 * Seek **help** when needed
 
 **Significant problems** or **set backs** should be shared with the supervisor at the earliest opportunity.
+
+---
+&emsp;
+## **1.5 Later Phases of the IRP**
+
+### **1.5.0 Reading**
+* *Required: none*
+* *Extension: none*
+
+&emsp;
+### **1.5.1 Phase 2 - Initiation**
+
+With feedback on the previous module submission, adjustments suggested by the supervisor, and ethical approval, the proposed research can be started.
+
+This stage relies heavily upon **independent study skills**: the student will lead and manage the project. A research plan and timetable will help organise **what** is required, **how**,  and by **when**.
+
+Depending on the type of project, it is likely that this phase will involve:
+* **Data collection** and **analysis** activities as the primary activity
+* Starting the build of any **artefacts** or **models**
+* The **literature review** as an iterative process 
+* **Writing** sections for the final submission
+
+Remember that the process is **fluid** and it is common to revisit earlier work as progress is made.
+
+&emsp;
+### **1.5.2 Phase 3 - Control**
+
+This phase focuses on **testing**, **analysis**, **advancing** the project, and an **evaluation** of the tools and techniques used thus far. This may include:
+* Reflection on progress
+* Consideration of pilot study results
+* Further literature review
+* Prototype testing
+
+**Five elements** also need reviewing:
+* Time
+* Resources
+* Money
+* Scope
+* Quality
+
+Completion of these activities should allow the researcher to identify and present any **dead ends** and minor **directional adjustments** needed.
+
+&emsp;
+### **1.5.3 Phase 4 - Closure**
+
+Althought is is the final stage, it is highly encouraged to begin writing earlier in the project: previously **drafted sections** will remove pressure and stress from this phase.
+
+Note that the supervisor will not proofread or help edit drafts.
+
+---
+&emsp;
+## **1.6 Advice and Support**
+
+### **1.6.0 Reading**
+* *Required: none*
+* *Extension: none*
+
+&emsp;
+### **1.6.1 Communication**
+
+The **clear communication** of ideas, intentions, relevance, and findings is an important skill for the IRP project. 
+
+**Mind maps **are one way to effectively collect and organise thoughts and ideas through visual representation. At the centre is the main idea and subtopics and connections are drawn radiating from it.
+<p align="center">
+  <img src="img/01/0103mindmap.jpg" alt="Mind map">
+</p>
+
+A video suggesting such an approach is available [here](https://www.youtube.com/watch?v=u5Y4pIsXTV0&t=203s).
+
+This approach can help communication in **supervisor meetings**.
+
+&emsp;
+### **1.6.2 Resources, Management, and Organisation**
+
+**Poor marks** are commonly awarded because the student has not used their time wisely.
+
+It is recommended to keep a **steady pace** and finish a draft of the **literature review** early; it can always be added to as the research progresses.
+
+&emsp;
+#### **Time Management:**
+
+It is standard practice to include a **timetable** in the research proposal illustrating the sequence and timings of activities across the allowed time period.
+* What **activities** are needed
+* When these will **start**
+* The estimated **duration**
+
+A basic timetable is illustrated below, however:
+* It provides an overview rather than allowing for overlapping or concurrent activities. 
+* It doesn't appropriately mirror the 4 week structure provided by the module
+* Therefore, it is useful as a starting point rather than a practical guide
+<p align="center">
+  <img src="img/01/0104timetable.jpg" alt="Basic Timetable">
+</p>
+
+A **Gantt chart** is one way to address these issues:
+<p align="center">
+  <img src="img/01/0105ganttchart.jpg" alt="Gantt Chart">
+</p>
+
+Further information on using Gantt charts can be found [here](https://researchwhisperer.org/2011/09/13/gantt-chart/).
+
+&emsp;
+#### **Module Support:**
+
+Support can be found from the appropriate sources:
+* **IRP Supervisor** - project advice, complying with university requirements
+* **Module Lead** and **Tutors** - upto date information, concerns and queries about the module
+* **Student Success Team** - difficulties affecting progress such as health and financial issues
+
+Working independently at a distance can bring additional **pressures**. To alleviate the stress of these, it is encouraged to:
+* Spend time on activities that promote physical and mental well-being
+* Focus on the process of learning rather than the fear of failure 
+* Accept own limitations and focus on strengths
+* Share concerns with friends and family
+* Be aware of feelings and thoughts, and engage with emotions
+* Pace yourself and set bespoke targets
+* Have regular contact with the supervisor 
+
+The **skills** needed to be successful in master's level research are suggested below. There is also a range of university resources available to support these:
+* [Skills Guides](https://subjectguides.york.ac.uk/skills)
+* [Practical Guides](https://subjectguides.york.ac.uk/practical-guides)
+* [Study Skills](https://www.york.ac.uk/students/studying/skills/)
+<p align="center">
+  <img src="img/01/0106skillsneeded.jpg" alt="Skills needed">
+</p>
+
+&emsp;
+### **1.6.3 Academic Integrity**
+
+It is expected that students at master's level display high standards of **academic integrity**. This is particularly relevant when developing substantial pieces of writing, such as the IRP. 
+
+Academic integrity includes being aware of and avoiding:
+* **Misconduct**
+* **Plagiarism**
+* **Collusion**
+
+&emsp;
+#### **Turnitin:**
+
+**Turnitin checkpoints** allow for production of an **Originality Report**: not a direct plagiarism detection, but a comparison of the content to sources in a database. 
+
+This allows for an academic judgement to be made as to whether any **matches** may be considered **plagiarism** and action taken before submission.
+
+It is expected any university summative submission will have been submitted to Turnitin by the student.
