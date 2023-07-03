@@ -155,4 +155,8 @@ Note that, in order to preserve academic integrity, information relating to summ
   <img src="readme/img/irp.png" alt="Independent Research Project">
 </p>
 
-- [**COM00151M Independent Research Project**]()
+- [**COM00151M Independent Research Project**](https://github.com/neoreuvenla/msc-comp-sci/tree/main/independent%20research%20project)
+
+    * [01 Project Definition and Planning](https://github.com/neoreuvenla/msc-comp-sci/blob/main/independent%20research%20project/01%20Project%20Definition%20and%20Planning.md)
+
+    * [02 Initiation]()
