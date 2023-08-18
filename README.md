@@ -63,6 +63,8 @@ Note that, in order to preserve academic integrity, information relating to summ
 
     * [02 Memory and Systems](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20architecture%20and%20operating%20systems/02%20Memory%20and%20Systems.md)
 
+    * [03 Building the System](https://github.com/neoreuvenla/msc-comp-sci/blob/main/computer%20architecture%20and%20operating%20systems/03%20Building%20the%20System.md)
+
 <br>
 
 <br>
